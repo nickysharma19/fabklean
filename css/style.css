@@ -206,7 +206,7 @@ h1{
   line-height: 40px;
   font-weight: 700;
   color: #fff;
-  padding: 0px 0px 0px 120px;
+  padding: 0px 0px 0px 0px;
 }
 
 
@@ -888,7 +888,7 @@ h5 a:hover{
   color: #fff;
   font-weight: 700;
   margin-bottom: 10px;
-  padding: 0px 0px 0px 120px;
+  padding: 0px 0px 0px 0px;
 }
 .main-slider h1{
   margin-bottom: 10px;
@@ -981,7 +981,7 @@ h5 a:hover{
   animation-delay: 1s;
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
-  padding: 0px 0px 0px 120px;
+  padding: 0px 0px 0px 0px;
 }
 
 
@@ -1102,7 +1102,7 @@ h5 a:hover{
     max-width: 450px;
     margin-top: 8px;
     margin-bottom: 20px;
-    padding: 0px 0px 0px 120px;
+    padding: 0px 0px 0px 0px;
 }
 
 /** service-section **/
