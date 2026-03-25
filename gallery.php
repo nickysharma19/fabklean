@@ -122,17 +122,10 @@
             
             <ul class="post-filter list-inline centred">
                 <li class="active" data-filter=".filter-item">
-                    <span>Show All</span>
+                    <!-- <span>Gallery All</span> -->,
+                     <h3 class="video-gallery">Our Gallery</h3>
                 </li>
-                <li data-filter=".Consulting">
-                    <span>Appertment</span>
-                </li>
-                <li data-filter=".Finance">
-                    <span>Office</span>
-                </li>
-                <li data-filter=".Marketing">
-                    <span>Industrial</span>
-                </li>
+               
             </ul>
 
             <div class="row masonary-layout filter-layout">
@@ -140,7 +133,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d3.png" alt=""></figure>
+                                <figure><img src="images/gallery/11.jpg" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -156,7 +149,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d4.png" alt=""></figure>
+                                <figure><img src="images/gallery/12.heic" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -172,7 +165,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d5.png" alt=""></figure>
+                                <figure><img src="images/gallery/13.jpg" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -188,7 +181,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d7.png" alt=""></figure>
+                                <figure><img src="images/gallery/fetch.jfif" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -204,7 +197,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d9.png" alt=""></figure>
+                                <figure><img src="images/gallery/fetch1.jfif" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -220,7 +213,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <figure><img src="images/service/d11.png" alt=""></figure>
+                                <figure><img src="images/gallery/fetch1.jfif" alt=""></figure>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -235,7 +228,56 @@
             </div>
         </div>
     </section>
+
     <!-- gallery section end -->
+    <section class="video-gallery-section">
+        <div class="container">
+
+        <div class="sec-title text-center">
+           <h3 class="video-gallery">Our Video Gallery</h3>
+        </div>
+
+        <div class="row masonary-layout">
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-item">
+                    <div class="single-item-overlay">
+                        <div class="img-box">
+                            <figure>
+                                <video src="images/videos/1.mp4" controls></video>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-item">
+                    <div class="single-item-overlay">
+                        <div class="img-box">
+                            <figure>
+                                <video src="images/videos/2.mp4" controls></video>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <div class="single-item">
+                    <div class="single-item-overlay">
+                        <div class="img-box">
+                            <figure>
+                                <video src="images/videos/3.mp4" controls></video>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
 
 
      <!-- testimonials section -->

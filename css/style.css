@@ -361,6 +361,7 @@ h5 a:hover{
   line-height: 43px;
   color: #1ab2f5;
   font-weight: 700;
+  padding-top: 50px;
   margin-bottom: 9px;
 }
 
@@ -1050,6 +1051,38 @@ h5 a:hover{
 .cta-section p{
   color: #fff;
 }
+
+
+.video-gallery-section video {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+.video-gallery {
+    font-size: 40px;
+    font-weight: 600;
+     font-family: 'Dancing Script', cursive;
+    color: #1ab2f5;
+    text-align: center;
+    margin: 40px 0px;
+    text-transform: capitalize;
+    position: relative;
+}
+
+/* underline design */
+.video-gallery::after {
+    content: "";
+    width: 450px;
+    height: 2px;
+    /* background: #ff5722; */
+    display: block;
+    margin: 8px auto 0;
+    border-radius: 2px;
+}
+
+
 .video-gallery {
   position: relative;
   display: inline-block;
@@ -2228,7 +2261,7 @@ h5 a:hover{
 
 .gallery-section{
   position: relative;
-  padding: 122px 0px 74px 0px;
+  padding: 50px 0px 20px 0px;
 }
 .gallery-section .single-item-overlay .img-box img {
   width: 100%;
@@ -3668,7 +3701,7 @@ h2{
 /* text-align:center; */
 color:#2ea3d6;
 font-size:40px;
-margin:40px 0;
+margin:20px 0;
 }
 
 .pricing{
