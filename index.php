@@ -67,7 +67,7 @@
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
-                                <a href="#" class="btn-two">Contuct Us</a>
+                                <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                                 hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
-                                <a href="#" class="btn-two">Contuct Us</a>
+                                <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -99,7 +99,7 @@
                                 focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
-                                <a href="#" class="btn-two">Contuct Us</a>
+                                <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
