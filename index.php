@@ -63,8 +63,8 @@
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning <br>Services</h1>
-                            <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
+                                <h1>Professional<br><span style="color:#051626;">Laundry</span> & <span style="color:#051626;">Dry Cleaning</span> <br>Services</h1>
+                                <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
                                 <a href="#" class="btn-two">Contuct Us</a>
@@ -117,22 +117,19 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure><img src="images/about/about.png" alt=""></figure>
+                        <figure><img src="images/about/shop.png" alt=""></figure>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">
                         <div class="title-top">About us</div>
                         <div class="sec-title">
-                            <h2>Professional Laundry & <br /> Dry Cleaning Service</h2>
+                            <h2>Professional <span style="color:#051626;">Laundry</span>  & <br /> <span style="color:#051626;">Dry Cleaning</span> Service</h2>
                         </div>
                         <div class="text">
                             <p>
-                                We provide reliable washing, dry cleaning, and ironing services to keep your clothes
-                                fresh, clean, and perfectly maintained. Using advanced cleaning technology and premium
-                                washing solutions, our expert team ensures the best care for every fabric. We focus on
-                                quality service, affordable pricing, and on-time delivery to give our customers a
-                                convenient and satisfying laundry experience.
+                                We offer dependable washing and dry cleaning plus ironing services to maintain your clothing in a pristine and well-preserved state. Our team of experts uses modern cleaning technology together with high-quality washing solutions to deliver optimal fabric care for all types of materials. Our business provides customers with an efficient laundry service through our dedication to delivering high-quality work at 
+                                budget-friendly prices which we complete on time.
                             </p>
                         </div>
                         <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>

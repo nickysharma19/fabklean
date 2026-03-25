@@ -24,7 +24,7 @@ a:hover,.shop-product .content-layer .btn-two:hover,.shop-section .price-text bu
 .single-table:hover .top-content,.tparrows.preview3:hover:after,.cart-section .coupon-box .apply-btn:hover,.slide-nav .owl-nav .owl-next:hover,
 .slide-nav .owl-nav .owl-prev:hover
 {
-	background: #1ab2f5;
+	background: #051626;
 }
 
 
@@ -33,10 +33,10 @@ a:hover,.shop-product .content-layer .btn-two:hover,.shop-section .price-text bu
 .single-item-overlay .img-box .overlay
 
 {
-	background: #1ab2f575;
+	background: #05162675;
 }
 .we-work .single-item:hover .icon-box {
-    box-shadow: 0 0 0 10px #1ab2f5;
+    box-shadow: 0 0 0 10px #051626;
 }
 
 
@@ -59,7 +59,7 @@ ul li.dropdown.current .dropdown-btn span:before,.tesimonial-page .single-item .
 .blog-page .sidebar-search button:hover
 
  {
-	color:#1ab2f5;
+	color:#051626;
 }
 
 /* Filter the 'border color' value classes*/
@@ -79,7 +79,7 @@ ul li.dropdown.current .dropdown-btn span:before,.tesimonial-page .single-item .
 .slide-nav .owl-nav .owl-prev:hover
 
 {
-  border-color:#1ab2f5;
+  border-color:#051626;
 }
 
 
