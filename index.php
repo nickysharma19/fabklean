@@ -63,7 +63,8 @@
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning Services</h1>
+                            <h1>Professional<br>Laundry & Dry Cleaning <br>Services</h1>
+                            <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
                                 <a href="#" class="btn-two">Contuct Us</a>
@@ -77,7 +78,9 @@
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning Services</h1>
+                            <h1>Professional<br>Laundry & Dry Cleaning<br> Services</h1>
+                            <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, 
+                                hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
                                 <a href="#" class="btn-two">Contuct Us</a>
@@ -91,7 +94,9 @@
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning Services</h1>
+                            <h1>Professional<br>Laundry & Dry Cleaning <br>Services</h1>
+                            <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a 
+                                focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
                                 <a href="#" class="btn-one">Booking Now</a>
                                 <a href="#" class="btn-two">Contuct Us</a>
@@ -170,7 +175,7 @@
 
     <!-- service section -->
     <section class="service-section">
-        <div class="container #our-service.php">
+        <div class="container">
             <div class="service-title centred">
                 <div class="title-top">Our Services</div>
                 <div class="sec-title">

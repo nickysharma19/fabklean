@@ -202,10 +202,11 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
 }
 
 h1{
-  font-size: 60px;
-  line-height: 66px;
+  font-size: 42px;
+  line-height: 40px;
   font-weight: 700;
   color: #fff;
+  padding: 0px 0px 0px 120px;
 }
 
 
@@ -881,15 +882,16 @@ h5 a:hover{
 }
 .main-slider .tp-title{
   position: relative;
-  font-size: 36px;
+  font-size: 30px;
   font-family: 'Dancing Script', cursive;
   line-height: 45px;
   color: #fff;
   font-weight: 700;
-  margin-bottom: 22px;
+  margin-bottom: 10px;
+  padding: 0px 0px 0px 120px;
 }
 .main-slider h1{
-  margin-bottom: 42px;
+  margin-bottom: 10px;
 }
 .main-slider .btn-one{
   margin-right: 17px;
@@ -979,6 +981,7 @@ h5 a:hover{
   animation-delay: 1s;
   -webkit-animation-name: fadeInUp;
   animation-name: fadeInUp;
+  padding: 0px 0px 0px 120px;
 }
 
 
@@ -1090,6 +1093,17 @@ h5 a:hover{
   transform: scale(1.1);
 }
 
+
+.main-slider .Fabklean {
+    font-size: 17px;
+    color: #ffffff;
+    line-height: 1.2;
+    font-family: 'Poppins', sans-serif;
+    max-width: 450px;
+    margin-top: 8px;
+    margin-bottom: 20px;
+    padding: 0px 0px 0px 120px;
+}
 
 /** service-section **/
 
