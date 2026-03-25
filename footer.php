@@ -54,12 +54,12 @@
                     <div class="col-md-2 col-sm-6 col-xs-12 footer-column">
                         <div class="service-wideget footer-wideget">
                             <div class="footer-title">
-                                <h3>Services</h3>
+                                <h3>Quick Link</h3>
                             </div>
                             <ul class="list">
-                                <!-- <li><a href="#">Company History</a></li> -->
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
-                                <li><a href="#">Services</a></li>
+                                <li><a href="index.php#services">Services</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                             </ul>
@@ -68,7 +68,7 @@
                     <div class="col-md-3 col-sm-6 col-xs-12 footer-column">
                         <div class="link-wideget footer-wideget">
                             <div class="footer-title">
-                                <h3>Quick Link</h3>
+                                <h3>Services</h3>
                             </div>
                             <ul class="list">
                                 <!-- <li><a href="#">Company History</a></li> -->

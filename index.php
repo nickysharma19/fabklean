@@ -174,8 +174,8 @@
 
 
     <!-- service section -->
-    <section class="service-section">
-        <div class="container">
+    <section class="service-section" id="services">
+        <div class="container #our-service.php">
             <div class="service-title centred">
                 <div class="title-top">Our Services</div>
                 <div class="sec-title">
