@@ -142,7 +142,7 @@
 
 
     <!-- cta section -->
-    <section class="cta-section" style="background-image: url(images/home/cta.png);">
+    <section class="cta-section" style="background-image: url(images/home/banner3.png);">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 col-xs-12 cta-column">
@@ -195,7 +195,7 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Laundry Services</a></h3>
+                            <h3><a href="service-details.html">Laundry</a></h3>
                             <div class="text">We provide professional laundry, dry cleaning, and ironing services 
                                 to keep your clothes fresh, clean, and perfectly maintained every day.</div>
                         </div>
@@ -216,7 +216,7 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Dry Cleaning (Clothes)</a></h3>
+                            <h3><a href="service-details.html">Dry Cleaning</a></h3>
                             <div class="text">Premium dry cleaning service for clothes to 
                                 remove stains and keep your garments looking fresh and new.</div>
                         </div>
@@ -237,32 +237,9 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Dry Cleaning – Accessories</a></h3>
+                            <h3><a href="service-details.html"> Accessories</a></h3>
                             <div class="text">Professional dry cleaning for accessories like bags, shoes, ties, 
                                 gloves, and soft toys to keep them fresh, clean, and well maintained.</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <a href="#"><img src="images/service/4.png" alt=""></a>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="service-details.html">Curtain Dry Cleaning Service</a></h3>
-                            <div class="text">
-                                Professional curtain dry cleaning service to remove dust, stains, 
-                                and odors while maintaining the fabric quality and freshness.
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -281,7 +258,30 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Shoe Cleaning Service</a></h3>
+                            <h3><a href="service-details.html">Curtain Dry Cleaning</a></h3>
+                            <div class="text">
+                                Professional curtain dry cleaning service to remove dust, stains, 
+                                and odors while maintaining the fabric quality and freshness.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+                    <div class="single-item">
+                        <div class="single-item-overlay">
+                            <div class="img-box">
+                                <a href="#"><img src="images/service/4.png" alt=""></a>
+                                <div class="overlay">
+                                    <div class="inner-box">
+                                        <ul class="content">
+                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lower-content">
+                            <h3><a href="service-details.html">Shoe Cleaning</a></h3>
                             <div class="text">
                                 Professional shoe cleaning service to remove dirt, stains, 
                                 and odors while restoring the fresh look of your footwear.
@@ -304,7 +304,7 @@
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Steam Ironing Service</a></h3>
+                            <h3><a href="service-details.html">Steam Ironing </a></h3>
                             <div class="text">
                                 Professional steam ironing service to remove wrinkles and keep 
                                 your clothes perfectly pressed and ready to wear.
@@ -319,7 +319,7 @@
 
 
     <!-- we-work -->
-    <section class="we-work" style="background-image: url(images/home/work.jpg);">
+    <section class="we-work" style="background-image: url(images/home/work.png);">
         <div class="container">
             <div class="title-top centred">Steps</div>
             <div class="sec-title centred">
