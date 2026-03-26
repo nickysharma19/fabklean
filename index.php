@@ -59,7 +59,7 @@
         <div class="container-fluid">
             <ul class="main-slider-carousel owl-carousel owl-theme slide-nav">
                 <li class="slider-wrapper">
-                    <div class="image"><img src="images/slider/1.png" alt=""></div>
+                    <div class="image"><img src="images/slider/3.png" alt=""></div>
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
@@ -78,7 +78,7 @@
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning<br> Services</h1>
+                            <h1>Professional<br><span style="color:#051626;">Laundry</span> & <span style="color:#051626;">Dry Cleaning</span> <br>Services</h1>
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, 
                                 hygiene, and efficiency.</p>
                             <div class="tp-btn">
@@ -90,11 +90,11 @@
                     <div class="slide-overlay"></div>
                 </li>
                 <li class="slider-wrapper">
-                    <div class="image"><img src="images/slider/3.png" alt=""></div>
+                    <div class="image"><img src="images/slider/1.png" alt=""></div>
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
-                            <h1>Professional<br>Laundry & Dry Cleaning <br>Services</h1>
+                            <h1>Professional<br><span style="color:#051626;">Laundry</span> & <span style="color:#051626;">Dry Cleaning</span> <br>Services</h1>
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a 
                                 focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">

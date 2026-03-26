@@ -626,7 +626,7 @@ h5 a:hover{
   padding: 41px 0px 43px 12px;
   font-family: 'Poppins', sans-serif;
   opacity:1;
-  -webkit-transition:all 500ms ease;
+  /* -webkit-transition:all 500ms ease; */
 }
 
 .main-menu .navigation > li:hover > a,.main-menu .navigation > li.current > a,
@@ -2628,7 +2628,7 @@ h5 a:hover{
 .shop-content .top-content .right-content{
   position: relative;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .shop-content .top-content .right-content a{
   display: inline-block;
@@ -2715,7 +2715,7 @@ h5 a:hover{
 .shop-product .lower-content .heart{
   position: relative;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .shop-product .lower-content .price{
   font-size: 17px;
@@ -2817,7 +2817,7 @@ h5 a:hover{
 }
 .single-shop .product-content .post-share .post-social{
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .single-shop .product-content .post-share .post-social li{
   display: inline-block;
