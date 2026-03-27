@@ -358,9 +358,9 @@ h5 a:hover{
   font-size: 34px;
   font-family: 'Dancing Script', cursive;
   line-height: 43px;
-  color: #051626;
+  color: #051626 !important;
   font-weight: 700;
-  padding-top: 50px;
+  /* padding-top: 50px; */
   margin-bottom: 9px;
 }
 
@@ -625,7 +625,7 @@ h5 a:hover{
   padding: 41px 0px 43px 12px;
   font-family: 'Poppins', sans-serif;
   opacity:1;
-  -webkit-transition:all 500ms ease;
+  /* -webkit-transition:all 500ms ease; */
 }
 
 .main-menu .navigation > li:hover > a,.main-menu .navigation > li.current > a,
@@ -1050,6 +1050,7 @@ h5 a:hover{
 }
 .about-section .about-content p{
   margin-bottom: 32px;
+  text-align: justify;
 }
 
 
@@ -1267,7 +1268,7 @@ h5 a:hover{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  padding: 115px 0px 115px 0px;
+  padding: 0px 0px 115px 0px;
 }
 .we-work:before{
   position: absolute;
@@ -2627,7 +2628,7 @@ h5 a:hover{
 .shop-content .top-content .right-content{
   position: relative;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .shop-content .top-content .right-content a{
   display: inline-block;
@@ -2714,7 +2715,7 @@ h5 a:hover{
 .shop-product .lower-content .heart{
   position: relative;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .shop-product .lower-content .price{
   font-size: 17px;
@@ -2816,7 +2817,7 @@ h5 a:hover{
 }
 .single-shop .product-content .post-share .post-social{
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 .single-shop .product-content .post-share .post-social li{
   display: inline-block;

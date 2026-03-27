@@ -139,14 +139,8 @@
                         <div class="sec-title"><h2>Professional <br /> Cleaning Service</h2></div>
                         <div class="text">
                             <p>
-                               Fabklean is committed to providing reliable laundry, dry cleaning, and steam ironing services to meet all your garment care needs. Our services are built on three important principles: high-quality cleaning, affordable pricing, and on-time delivery. We focus on delivering a convenient and professional laundry experience for our customers.
-
-                                At Fabklean, we use advanced imported cleaning technology and premium washing formulas to ensure consistent and effective cleaning results. Our experienced team carefully handles every garment to maintain its fabric quality, color, and durability.
-                                
-                                From regular laundry washing to delicate dry cleaning and professional steam ironing, we provide complete garment care solutions. Our goal is to keep your clothes fresh, hygienic, and perfectly maintained.
-                                
-                                With our commitment to excellent service, competitive pricing, and reliable delivery, Fabklean has become a trusted choice for professional 
-                                laundry and dry cleaning services.
+                               The company Fabklean delivers dependable laundry and dry cleaning services together with steam ironing to meet all your clothing maintenance needs. Our service delivery system relies on three core principles which include delivering high-quality cleaning results at affordable costs while ensuring all services are completed on scheduled time. Our laundry service offers customers a combination of convenience and professional quality. The cleaning process at Fabklean employs advanced cleaning machines which we imported and our team uses special washing formulas to deliver effective cleaning results. The skilled team members treat all fabrics with special care to ensure their original material characteristics and color and strength remain unchanged. Our company provides full garment maintenance solutions which range from standard laundry services to special delicate dry cleaning and professional steam ironing. Our cleaning services help you maintain your clothing items in their optimal state by keeping them clean and sanitary while preserving their pristine appearance. The professional laundry and dry cleaning services at Fabklean have established the company as a trusted provider because of its outstanding service and market competitive pricing 
+                               and reliable service delivery.
                             </p>
                         </div>
                         <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
@@ -165,18 +159,14 @@
                         <div class="sec-title"><h2>who we are</h2></div>
                         <div class="text">
                             <p>
-                               Fabklean is dedicated to providing professional laundry, dry cleaning, and steam ironing services to meet all your garment care needs. Our services are based on three key principles: high-quality cleaning, affordable pricing, and timely delivery. We aim to deliver a convenient, reliable, and hassle-free laundry experience for every customer.
-
-                                At Fabklean, we use advanced cleaning technology and premium washing solutions to ensure deep cleaning while protecting the fabric quality, color, and durability of your clothes. Our trained professionals carefully handle every garment, from daily wear laundry to delicate dry cleaning and expert steam ironing.
-
-                                We provide complete garment care solutions designed to keep your clothes fresh, hygienic, and perfectly maintained. With our commitment to quality service, competitive pricing, and dependable delivery, Fabklean has become a trusted name in 
-                                professional laundry and dry cleaning services.
+                               Our organization provides three main services which include professional cleaning service delivery and our economical package delivery system. The company delivers laundry services which customers can depend on without experiencing difficulties. Fabklean uses modern cleaning equipment together with high-quality washing products to deliver thorough cleaning results which maintain the fabric protection and color and durability of your clothing items. The trained professionals at our company handle all types of garments which include daily laundry and delicate dry cleaning and expert steam ironing services. Our complete garment care solutions help maintain your clothing items in a fresh state while keeping them clean and fully protected. Fabklean has built a reputation as a trusted professional laundry and dry cleaning service provider because we deliver high-quality service at budget-friendly prices with our 
+                               reliable delivery system.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/about.png" alt=""></figure></div>
+                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/who.png" alt=""></figure></div>
                 </div>
             </div>
         </div>
@@ -554,46 +544,6 @@
         </div>
     </section>
     <!-- faq section end -->
-
-    <!-- our-team -->
-    <section class="our-team">
-        <div class="container">
-            <div class="team-title centred">
-                <div class="title-top">Our Team</div>
-                <div class="sec-title"><h2>Meet Our Experts</h2></div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12 team-column">
-                    <div class="single-item">
-                        <div class="img-box"><a href="team-detaisl.html"><figure><img src="images/team/1.jpg" alt=""></figure></a></div>
-                        <div class="lower-content">
-                            <h3><a href="team-detaisl.html">Celevic Taruda</a></h3>
-                            <div class="text">Co-Founder</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 team-column">
-                    <div class="single-item">
-                        <div class="img-box"><a href="team-detaisl.html"><figure><img src="images/team/2.jpg" alt=""></figure></a></div>
-                        <div class="lower-content">
-                            <h3><a href="team-detaisl.html">Dylan Brown</a></h3>
-                            <div class="text">Co-Founder</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 team-column">
-                    <div class="single-item">
-                        <div class="img-box"><a href="team-detaisl.html"><figure><img src="images/team/3.jpg" alt=""></figure></a></div>
-                        <div class="lower-content">
-                            <h3><a href="team-detaisl.html">Jassica Davis</a></h3>
-                            <div class="text">Co-Founder</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- our-team end -->
 
 
     <!-- main footer area -->
