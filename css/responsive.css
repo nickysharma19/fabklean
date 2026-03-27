@@ -237,6 +237,18 @@
 	.error-section .img-box img{
 		width: 100%;
 	}
+	.tp-btn {
+  flex-direction: column;
+  align-items: stretch;   /* IMPORTANT CHANGE */
+  gap: 12px;
+}
+
+.main-slider .btn-one,
+.main-slider .btn-two {
+  width: 100%;
+  text-align: center;
+  display: block;
+}
 	
 }
 
