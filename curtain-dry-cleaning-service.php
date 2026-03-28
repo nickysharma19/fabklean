@@ -129,7 +129,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Curtain Dry Cleaning Service</div>
+                            <div class="title">Curtain Dry Cleaning</div>
                             <div class="text">
                                 <p>
                                     Curtains often collect dust, pollution, and bacteria, which can affect the cleanliness of your home or office. Our expert team carefully handles every type of curtain fabric and uses modern equipment to ensure deep cleaning, stain removal, and proper fabric care 

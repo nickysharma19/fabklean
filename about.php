@@ -46,10 +46,24 @@
 <meta name="twitter:image" content="https://fabklean.com/images/logo.png">
 
 <!-- Favicons -->
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+<!-- Apple -->
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo/apple-touch-icon.png">
+
+<!-- Standard Favicons -->
+<link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/logo/favicon-16x16.png">
+
+<!-- Android -->
+<link rel="icon" type="image/png" sizes="192x192" href="images/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="images/logo/android-chrome-512x512.png">
+
+<!-- ICO fallback -->
+<link rel="icon" href="images/logo/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/logo/favicon.ico">
+
+<!-- Web Manifest -->
+<link rel="manifest" href="images/logo/site.webmanifest">
 
 <!-- Android Icons -->
 <link rel="icon" type="image/png" sizes="192x192" href="images/android-chrome-192x192.png">
@@ -139,7 +153,9 @@
                         <div class="sec-title"><h2>Professional <br /> Cleaning Service</h2></div>
                         <div class="text">
                             <p>
-                               The company Fabklean delivers dependable laundry and dry cleaning services together with steam ironing to meet all your clothing maintenance needs. Our service delivery system relies on three core principles which include delivering high-quality cleaning results at affordable costs while ensuring all services are completed on scheduled time. Our laundry service offers customers a combination of convenience and professional quality. </p>
+                                We at Fabklean  are dedicated to serve you with washing, dry cleaning and ironing requirements of your clothes keeping in mind three distinct principles : Quality, Pricing and on time delivery. We have addressed these three areas with rewarding solutions and experiences for our customers. The quality of our service is consistent as we use the best imported technology and superior washing formula. We are committed to provide services at 
+                                competitive price and on time. 
+                            </p>
                         </div>
                         <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
                     </div>
@@ -154,7 +170,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">
                         <div class="title-top"></div>
-                        <div class="sec-title"><h2>who we are</h2></div>
+                        <div class="sec-title"><h2>Who We Are?</h2></div>
                         <div class="text">
                             <p>
                                Our organization provides three main services which include professional cleaning service delivery and our economical package delivery system. The company delivers laundry services which customers can depend on without experiencing difficulties. Fabklean uses modern cleaning equipment together with high-quality washing products to deliver thorough cleaning results which maintain the fabric protection and color and durability of your clothing items. The trained professionals at our company handle all types of garments which include daily laundry and delicate dry cleaning and expert steam ironing services. Our complete garment care solutions help maintain your clothing items in a fresh state while keeping them clean and fully protected. Fabklean has built a reputation as a trusted professional laundry and dry cleaning service provider because we deliver high-quality service at budget-friendly prices with our 
@@ -174,24 +190,25 @@
     
 
 <section class="goal-section">
-    <div class="container">
-
+    <div class="container ">
         <div class="goal-content text-center">
-            <h2 style="color: #ffffff; margin-bottom: 20px; font-weight: 600;">Our Goal</h2>
-
-            <h3 style="color: #ffffff;">Delivering Quality Laundry Services</h3>
-            <p style="color: #ffffff;">
-                At Fabklean, our goal is to provide top-quality washing, dry cleaning, 
-                and steam ironing services using advanced technology and premium cleaning solutions. 
-                We ensure every garment is handled with care to maintain its freshness, fabric quality, and durability.
-            </p>
-
-            <h3 style="color: #ffffff;">Affordable Pricing with Timely Delivery</h3>
-            <p style="color: #ffffff;">
-                We are committed to offering reliable services at competitive prices while ensuring 
-                on-time doorstep delivery. Our focus is to create a seamless and hassle-free experience 
-                that builds long-term trust and satisfaction with every customer.
-            </p>
+            <div class="boxing" style="padding: 0px 185px;">
+                <h2 style="color: #051626; margin-bottom: 20px; font-weight: 600;">Our Goal</h2>
+                
+                <h3 style="color: #051626;">Delivering Quality Laundry Services</h3>
+                <p style="color: #ffffff;">
+                    At Fabklean, our goal is to provide <span></span> top-quality washing, dry cleaning, 
+                    and steam ironing services using advanced technology and premium cleaning solutions. 
+                    We ensure every garment is handled with care to maintain its freshness, fabric quality, and durability.
+                </p>
+                
+                <h3 style="color: #051626;">Affordable Pricing with Timely Delivery</h3>
+                <p style="color: #ffffff;">
+                    We are committed to offering reliable services at competitive prices while ensuring 
+                    on-time doorstep delivery. Our focus is to create a seamless and hassle-free experience 
+                    that builds long-term trust and satisfaction with every customer.
+                </p>
+            </div>
         </div>
 
     </div>

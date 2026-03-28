@@ -130,7 +130,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Leather Cleaning Service</div>
+                            <div class="title">Leather Cleaning</div>
                             <div class="text">
                                 <p>
                                     Leather products such as jackets, bags, shoes, sofas, and accessories require special care to maintain their quality and durability. Our experienced team carefully inspects each item and uses professional methods to ensure deep cleaning, stain removal, and proper conditioning without 

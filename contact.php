@@ -7,6 +7,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <title>Contact Fabklean | Laundry & Dry Cleaning Services in Gurgaon</title>
 
@@ -46,17 +47,19 @@
 <meta name="twitter:image" content="https://fabklean.com/images/logo.png">
 
 <!-- Favicons -->
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo/apple-touch-icon.png">
 
-<!-- Android Icons -->
-<link rel="icon" type="image/png" sizes="192x192" href="images/android-chrome-192x192.png">
-<link rel="icon" type="image/png" sizes="512x512" href="images/android-chrome-512x512.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/logo/favicon-16x16.png">
 
-<!-- Manifest -->
-<link rel="manifest" href="images/site.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="images/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="images/logo/android-chrome-512x512.png">
+
+<link rel="shortcut icon" href="images/logo/favicon.ico">
+
+<link rel="manifest" href="images/logo/site.webmanifest">
+
+
 
 <!-- Theme -->
 <meta name="theme-color" content="#2a7c2a">
@@ -75,7 +78,7 @@
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 <link type="text/css" rel="stylesheet" id="jssDefault" href="css/custom/theme-2.css"/>
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
 
 </head>
 
@@ -118,64 +121,88 @@
 
     
     <!-- contact section -->
-     <section class="contact-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-12 col-xs-12 contact-column">
-                    <div class="google-map-area">
-                        <div class="google-map">
-                            <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224512.68933951115!2d76.76881048671875!3d28.44909169999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18f56f0f49d1%3A0xf9dd6e535bbf5988!2sSector%2040%20HUDA%20Market!5e0!3m2!1sen!2sin!4v1773481991037!5m2!1sen!2sin"
-                            width="100%"
-                            height="450"
-                            style="border:0;"
-                            allowfullscreen=""
-                            loading="lazy">
-                            </iframe>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-12 col-xs-12 contact-column">
-                    <div class="contact-info">
-                        <div class="row">
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="single-info">
-                                    <div class="icon-box"><i class="flaticon-globe"></i></div>
-                                    <h4>Website</h4>
-                                    <div class="text">www.sharpes.com</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="single-info">
-                                    <div class="icon-box"><i class="flaticon-technology"></i></div>
-                                    <h4>Phone</h4>
-                                    <div class="text">+91-8882388375 <br />0124-4007675</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="single-info">
-                                    <div class="icon-box"><i class="flaticon-message"></i></div>
-                                    <h4>Email</h4>
-                                    <div class="text">lghospitality2019@gmail.com<br /></div>
-                                </div>
-                            </div>
-                            
-                            <div class="col-md-6 col-sm-6 col-xs-12">
-    <div class="single-info">
-        <div class="icon-box"><i class="flaticon-gps"></i></div>
-        <h4>Location</h4>
-        <div class="text">
-            Sector 40 HUDA Market,<br>
-            Gurugram, Haryana 122001,<br>
-            India
-        </div>
-    </div>
-</div>
-                        </div>
-                    </div>
+
+   <section class="contact-info-section">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- Left Column (Map) -->
+            <div class="col-md-6">
+                <div class="map-box">
+                    <iframe 
+                        src="https://www.google.com/maps?q=Sector+40+HUDA+Market+Gurugram&output=embed"
+                        width="100%" 
+                        height="400" 
+                        style="border:0;" 
+                        loading="lazy">
+                    </iframe>
                 </div>
             </div>
+
+            <!-- Right Column (Contact Info) -->
+            <div class="col-md-6">
+                <div class="contact-info">
+    <div class="row">
+
+        <!-- Website -->
+        <div class="col-md-6 col-sm-6">
+            <div class="info-box">
+                <div class="icon">
+                    <i class="fa fa-globe"></i>
+                </div>
+                <h3>Website</h3>
+                <p>www.sharpes.com</p>
+            </div>
         </div>
+
+        <!-- Phone -->
+        <div class="col-md-6 col-sm-6">
+            <div class="info-box">
+                <div class="icon">
+                    <i class="fa fa-phone"></i>
+                </div>
+                <h3>Phone</h3>
+                <p>+91-8882388375 <br>0124-4007675</p>
+                <!-- <p>0124-4007675</p> -->
+            </div>
+        </div>
+
+        <!-- Email -->
+        <div class="col-md-6 col-sm-6">
+            <div class="info-box">
+                <div class="icon">
+                    <i class="fa fa-envelope"></i>
+                </div>
+                <h3>Email</h3>
+                <p>lghospitality2019@gmail.com</p>
+            </div>
+        </div>
+
+        <!-- Location -->
+       <div class="col-md-6 col-sm-6">
+    <div class="info-box">
+        <div class="icon">
+            <i class="fas fa-map-marker-alt"></i>
+        </div>
+        <h3>Location</h3>
+        <p>
+            Sector 40 HUDA Market,<br>
+            Gurugram, Haryana 122001, India
+        </p>
+    </div>
+</div>
+
+    </div>
+</div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+     <section class="contact-section">
         <div class="contact-form-area">
             <div class="container">
                 <div class="title-top centred">Send Message</div>

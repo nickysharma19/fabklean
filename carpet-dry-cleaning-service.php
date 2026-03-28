@@ -47,10 +47,17 @@
 <meta name="twitter:image" content="https://fabklean.com/images/logo.png">
 
 <!-- Favicons -->
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="icon" href="images/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo/apple-touch-icon.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/logo/favicon-16x16.png">
+
+<link rel="icon" type="image/png" sizes="192x192" href="images/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="images/logo/android-chrome-512x512.png">
+
+<link rel="shortcut icon" href="images/logo/favicon.ico">
+
+<link rel="manifest" href="images/logo/site.webmanifest">
 
 <!-- Android Icons -->
 <link rel="icon" type="image/png" sizes="192x192" href="images/android-chrome-192x192.png">
@@ -130,7 +137,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Carpet Dry Cleaning Service</div>
+                            <div class="title">Carpet Dry Cleaning</div>
                             <div class="text">
                                 <p>
                                     Our Carpet Dry Cleaning Service is designed to keep your carpets fresh, hygienic, and well maintained. At Fabklean, we use advanced dry cleaning technology and eco-friendly cleaning solutions to remove deep dirt, dust, stains, and unpleasant odors without 

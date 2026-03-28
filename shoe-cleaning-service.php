@@ -129,7 +129,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Shoe Cleaning Service</div>
+                            <div class="title">Shoe Cleaning</div>
                             <div class="text">
                                 <p>
                                     At Fabklean, we provide professional shoe cleaning services to

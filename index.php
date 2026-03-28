@@ -33,10 +33,24 @@
 <meta property="og:site_name" content="Fabklean">
 
 <!-- Favicons -->
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+<!-- Apple -->
+<link rel="apple-touch-icon" sizes="180x180" href="images/logo/apple-touch-icon.png">
+
+<!-- Standard Favicons -->
+<link rel="icon" type="image/png" sizes="32x32" href="images/logo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/logo/favicon-16x16.png">
+
+<!-- Android -->
+<link rel="icon" type="image/png" sizes="192x192" href="images/logo/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="images/logo/android-chrome-512x512.png">
+
+<!-- ICO fallback -->
+<link rel="icon" href="images/logo/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/logo/favicon.ico">
+
+<!-- Web Manifest -->
+<link rel="manifest" href="images/logo/site.webmanifest">
 
 <!-- Stylesheets (UNCHANGED) -->
 <link href="css/style.css" rel="stylesheet">
@@ -122,14 +136,14 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">
-                        <div class="title-top">About us</div>
+                        <div class="title-top">About Us</div>
                         <div class="sec-title">
                             <h2>Professional <span style="color:#051626;">Laundry</span>  & <br /> <span style="color:#051626;">Dry Cleaning</span> Service</h2>
                         </div>
                         <div class="text">
                             <p>
-                                We offer dependable washing and dry cleaning plus ironing services to maintain your clothing in a pristine and well-preserved state. Our team of experts uses modern cleaning technology together with high-quality washing solutions to deliver optimal fabric care for all types of materials. Our business provides customers with an efficient laundry service through our dedication to delivering high-quality work at 
-                                budget-friendly prices which we complete on time.
+                                We at Fabklean  are dedicated to serve you with washing, dry cleaning and ironing requirements of your clothes keeping in mind three distinct principles : Quality, Pricing and on time delivery. We have addressed these three areas with rewarding solutions and experiences for our customers. The quality of our service is consistent as we use the best imported technology and superior washing formula. We are committed to provide 
+                                services at competitive price and on time. 
                             </p>
                         </div>
                         <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
@@ -188,14 +202,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="laundry-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Laundry</a></h3>
+                            <h3><a href="laundry-service.php">Laundry</a></h3>
                             <div class="text">We provide professional laundry, dry cleaning, and ironing services 
                                 to keep your clothes fresh, clean, and perfectly maintained every day.</div>
                         </div>
@@ -209,14 +223,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="dry-cleaning-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Dry Cleaning</a></h3>
+                            <h3><a href="dry-cleaning-service.php">Dry Cleaning</a></h3>
                             <div class="text">Premium dry cleaning service for clothes to 
                                 remove stains and keep your garments looking fresh and new.</div>
                         </div>
@@ -230,14 +244,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="leather-cleaning-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html"> Accessories</a></h3>
+                            <h3><a href="leather-cleaning-service.php"> Leather Cleaning</a></h3>
                             <div class="text">Professional dry cleaning for accessories like bags, shoes, ties, 
                                 gloves, and soft toys to keep them fresh, clean, and well maintained.</div>
                         </div>
@@ -251,14 +265,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="curtain-dry-cleaning-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Curtain Dry Cleaning</a></h3>
+                            <h3><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning</a></h3>
                             <div class="text">
                                 Professional curtain dry cleaning service to remove dust, stains, 
                                 and odors while maintaining the fabric quality and freshness.
@@ -274,14 +288,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="shoe-cleaning-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Shoe Cleaning</a></h3>
+                            <h3><a href="shoe-cleaning-service.php">Shoe Cleaning</a></h3>
                             <div class="text">
                                 Professional shoe cleaning service to remove dirt, stains, 
                                 and odors while restoring the fresh look of your footwear.
@@ -297,14 +311,14 @@
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
-                                            <li><a href="service-details.html"><i class="fa fa-link"></i></a></li>
+                                            <li><a href="steam-ironing-service.php"><i class="fa fa-link"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="lower-content">
-                            <h3><a href="service-details.html">Steam Ironing </a></h3>
+                            <h3><a href="steam-ironing-service.php">Steam Ironing </a></h3>
                             <div class="text">
                                 Professional steam ironing service to remove wrinkles and keep 
                                 your clothes perfectly pressed and ready to wear.
@@ -321,7 +335,7 @@
     <!-- we-work -->
     <section class="we-work" style="background-image: url(images/home/work.png);">
         <div class="container">
-            <div class="title-top centred" style="padding: 30px;">Steps</div>
+            <div class="title-top centred" style="padding: 30px 0px 5px;">Steps</div>
             <div class="sec-title centred">
                 <h2>How We Work</h2>
             </div>
@@ -392,7 +406,7 @@
                                 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Standard Detergent</li>
                                 <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> 48-Hour Delivery</li>
                             </ul>
-                            <div class="button"><a href="#" class="btn-two">    </a></div>
+                            <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
                         </div>
                     </div>
                 </div>
@@ -466,7 +480,7 @@
                             <div class="accordion animated out" data-delay="0" data-animation="fadeInUp">
                                 <div class="acc-btn active">
                                     <div class="acc-title"><h4>
-                                        What Does Cras Consectetur Velit Sit Amet Sollicitudin Vulputate?
+                                        How Do We Keep Your Clothes Fresh and Clean?
                                     </h4></div>
                                     <div class="toggle-icon">
                                         <i class="plus fa fa-plus"></i><i class="minus fa fa-minus"></i>

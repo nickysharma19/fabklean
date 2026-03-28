@@ -179,6 +179,7 @@ p{
   line-height: 26px;
   font-weight: 400;
   color: #666666;
+  text-align: justify;
   margin-bottom: 10px;
   transition: all 500ms ease;
 }
@@ -348,7 +349,7 @@ h5 a:hover{
 .sec-title h2{
   position: relative;
   font-size: 40px;
-  line-height: 35px;
+  line-height: 45px;
   font-weight: 600;
   margin-bottom: 23px;
 }
@@ -1019,7 +1020,7 @@ h5 a:hover{
 
 .about-section{
   position: relative;
-  padding: 50px 0px 30px 0px;
+  padding: 80px 0px 30px 0px;
 }
 .about-section .img-box{
   position: relative;
@@ -3659,8 +3660,8 @@ h5 a:hover{
   border: 1px solid #e5e5e5;
   margin-left: -15px;
   border-left: none;
-  padding: 102px 0px 16px 73px;
-  height: 570px;
+  padding: 30px 0px 0px 55px;
+  height: 450px;
 }
 .contact-section .contact-info .single-info{
   position: relative;
@@ -3778,7 +3779,7 @@ text-align:right;
   .main-slider .tp-title{
     font-size: 26px;
     line-height: 38px;
-    padding-left: 80px;
+    /* padding-left: 80px; */
   }
 
   .main-slider h1{
@@ -3932,4 +3933,40 @@ text-align:right;
   .goal-card {
     width: 100%;
   }
+}
+
+
+
+
+
+.contact-info-section {
+    padding: 60px 0;
+}
+
+.map-box iframe {
+    border-radius: 10px;
+}
+
+.contact-info .info-box {
+    margin-bottom: 20px;
+}
+
+.info-box .icon {
+    font-size: 25px;
+    color: #051626;
+    margin-bottom: 8px;
+}
+
+
+.info-box {
+    margin-bottom: 25px;
+    padding: 15px;
+    border-radius: 8px;
+    background: #f8fbff;
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 8px;
 }

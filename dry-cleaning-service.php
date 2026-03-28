@@ -129,7 +129,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Dry Cleaning Service</div>
+                            <div class="title">Dry Cleaning</div>
                             <div class="text">
                                 <p>
                                     Our professional dry cleaning process helps preserve the shape, softness, and durability of garments, ensuring they stay in excellent condition for a longer time. Each item is carefully inspected and cleaned using advanced techniques that provide deep cleaning 
