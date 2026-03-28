@@ -139,9 +139,7 @@
                         <div class="sec-title"><h2>Professional <br /> Cleaning Service</h2></div>
                         <div class="text">
                             <p>
-                               The company Fabklean delivers dependable laundry and dry cleaning services together with steam ironing to meet all your clothing maintenance needs. Our service delivery system relies on three core principles which include delivering high-quality cleaning results at affordable costs while ensuring all services are completed on scheduled time. Our laundry service offers customers a combination of convenience and professional quality. The cleaning process at Fabklean employs advanced cleaning machines which we imported and our team uses special washing formulas to deliver effective cleaning results. The skilled team members treat all fabrics with special care to ensure their original material characteristics and color and strength remain unchanged. Our company provides full garment maintenance solutions which range from standard laundry services to special delicate dry cleaning and professional steam ironing. Our cleaning services help you maintain your clothing items in their optimal state by keeping them clean and sanitary while preserving their pristine appearance. The professional laundry and dry cleaning services at Fabklean have established the company as a trusted provider because of its outstanding service and market competitive pricing 
-                               and reliable service delivery.
-                            </p>
+                               The company Fabklean delivers dependable laundry and dry cleaning services together with steam ironing to meet all your clothing maintenance needs. Our service delivery system relies on three core principles which include delivering high-quality cleaning results at affordable costs while ensuring all services are completed on scheduled time. Our laundry service offers customers a combination of convenience and professional quality. </p>
                         </div>
                         <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
                     </div>
@@ -171,58 +169,83 @@
             </div>
         </div>
     </section>
-    <section class="about-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/vision.png" alt=""></figure></div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="about-content">
-                        <div class="title-top"></div>
-                        <div class="sec-title"><h2>our vision</h2></div>
-                        <div class="text">
-                            <p>
-                              Our vision at Fabklean is to become a trusted and leading provider of laundry, dry cleaning, and steam ironing services by delivering high-quality garment care solutions. We aim to create a reliable and convenient laundry experience built on three core values: quality cleaning, affordable pricing, and timely delivery.
-
-                              We envision using advanced cleaning technology and premium washing solutions to maintain the fabric quality, color, and durability of every garment. Our goal is to set new standards in professional laundry and dry cleaning services by combining innovation, expertise, and customer-focused service.
-                              
-                              Through continuous improvement and dedication to excellence, Fabklean strives to ensure that every customer enjoys fresh, hygienic, and perfectly maintained clothes, making us a trusted 
-                              choice for complete garment care solutions.
-                            </p>
-                        </div>
-                        <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="about-section">
-        <div class="container">
-            <div class="row">
-                
-                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="about-content">
-                        <div class="title-top"></div>
-                        <div class="sec-title"><h2>our mission</h2></div>
-                        <div class="text">
-                            <p>
-                                Our mission at Fabklean is to deliver reliable and professional laundry, dry cleaning, and steam ironing services that meet the everyday garment care needs of our customers. We are committed to providing high-quality cleaning, affordable pricing, and on-time delivery to ensure a convenient and stress-free laundry experience.
     
-                                At Fabklean, we focus on using advanced cleaning technology and premium washing solutions to protect the fabric quality, color, and durability of every garment. Our skilled team works with dedication and care to provide efficient, hygienic, and consistent cleaning results for all types of clothing.
-                                
-                                Through our commitment to quality service, customer satisfaction, and continuous improvement, our mission is to keep your clothes fresh, clean, and perfectly maintained, while building long-term trust with our customers through dependable 
-                                and professional garment care services.
-                            </p>
-                        </div>
+
+    
+
+<section class="goal-section">
+    <div class="container">
+
+        <div class="goal-content text-center">
+            <h2 style="color: #ffffff; margin-bottom: 20px; font-weight: 600;">Our Goal</h2>
+
+            <h3 style="color: #ffffff;">Delivering Quality Laundry Services</h3>
+            <p style="color: #ffffff;">
+                At Fabklean, our goal is to provide top-quality washing, dry cleaning, 
+                and steam ironing services using advanced technology and premium cleaning solutions. 
+                We ensure every garment is handled with care to maintain its freshness, fabric quality, and durability.
+            </p>
+
+            <h3 style="color: #ffffff;">Affordable Pricing with Timely Delivery</h3>
+            <p style="color: #ffffff;">
+                We are committed to offering reliable services at competitive prices while ensuring 
+                on-time doorstep delivery. Our focus is to create a seamless and hassle-free experience 
+                that builds long-term trust and satisfaction with every customer.
+            </p>
+        </div>
+
+    </div>
+</section>
+
+
+
+    <section class="about-section">
+        <div class="container">
+            
+            <!-- Section Title -->
+            <div class="sec-title text-center">
+                <h2 class="vision-heading">Our Vision</h2>
+            </div>
+            
+            <!-- Vision Cards -->
+            <div class="row vision-cards">
+                
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="vision-box">
+                        <!-- <div class="icon"><i class="fas fa-users"></i></div> -->
+                        <h3>Complete Laundry Care</h3>
+                        <p>
+                            We at Fabklean are dedicated to providing washing, dry cleaning, and ironing services with a focus on quality, affordable pricing, and on-time delivery. Using advanced technology and premium cleaning solutions, we ensure consistent results and complete customer satisfaction.
+                        </p>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/mission.png" alt=""></figure></div>
+                
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="vision-box">
+                        <!-- <div class="icon"><i class="fas fa-chart-line"></i></div> -->
+                        <h3>Quality & Affordable</h3>
+                        <p>
+                            At Fabklean, we focus on delivering high-quality laundry, dry cleaning, and ironing services at competitive prices. Our advanced cleaning technology and premium solutions ensure consistent results and complete customer satisfaction.
+                        </p>
+                    </div>
                 </div>
+                
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                    <div class="vision-box">
+                        <div class="icon"><i class="fas fa-handshake"></i></div>
+                        <h3>On-Time & Trusted</h3>
+                        <p>
+                            Fabklean is committed to delivering reliable laundry, dry cleaning, and ironing services with a strong focus on timely delivery. We ensure every order is handled with care, providing a trusted and hassle-free experience for our customers.
+                        </p>
+                    </div>
+                </div>
+                
             </div>
+            
         </div>
     </section>
+
+
     <!-- about section end -->
 
 

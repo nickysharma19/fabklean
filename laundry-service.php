@@ -127,7 +127,7 @@
                             </div>
                         </div>
                         <div class="content-style-one">
-                            <div class="title">Laundry Services</div>
+                            <div class="title">Laundry</div>
                             <div class="text">
                                 <p>
                                     Our Laundry Service is designed to make your daily life easier by providing reliable and high-quality clothes cleaning solutions. We offer professional clothes washing, fabric care, and steam ironing services to ensure your garments stay fresh, clean, and perfectly maintained.

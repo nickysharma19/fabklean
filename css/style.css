@@ -169,7 +169,7 @@ ul,li{
   text-align:center;  
 }
 .sec-pad{
-  padding: 92px 0px 100px 0px;
+  padding: 55px 0px 70px 0px;
 }
 
 p{
@@ -348,8 +348,8 @@ h5 a:hover{
 
 .sec-title h2{
   position: relative;
-  font-size: 42px;
-  line-height: 48px;
+  font-size: 40px;
+  line-height: 35px;
   font-weight: 600;
   margin-bottom: 23px;
 }
@@ -361,7 +361,7 @@ h5 a:hover{
   line-height: 43px;
   color: #051626 !important;
   font-weight: 700;
-  /* padding-top: 50px; */
+  /* padding-top: 30px; */
   margin-bottom: 9px;
 }
 
@@ -1020,7 +1020,7 @@ h5 a:hover{
 
 .about-section{
   position: relative;
-  padding: 50px 0px 50px 0px;
+  padding: 50px 0px 30px 0px;
 }
 .about-section .img-box{
   position: relative;
@@ -1060,7 +1060,7 @@ h5 a:hover{
 .cta-section{
   position: relative;
   width: 100%;
-  margin-top: 100px;
+  margin-top: 60px;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1171,7 +1171,7 @@ h5 a:hover{
 
 .service-section{
   position: relative;
-  padding: 85px 0px 55px 0px;
+  padding: 80px 0px 55px 0px;
 }
 .single-item-overlay{
   position: relative;
@@ -1424,7 +1424,7 @@ h5 a:hover{
   font-size: 24px;
   font-family: 'Montserrat', sans-serif;
   line-height: 33px;
-  color: #051626;
+  color: #1ab2f5;
   margin-bottom: 5px;
   transition: all 900ms ease;
 }
@@ -3729,7 +3729,7 @@ h2{
 /* text-align:center; */
 color:#2ea3d6;
 font-size:40px;
-margin:20px 0;
+margin:0px 0;
 }
 
 .pricing{
@@ -3740,7 +3740,7 @@ padding:30px;
 }
 
 .table-box{
-background:#0d2a3b;
+background:#  ;
 color:white;
 border-radius:10px;
 overflow:hidden;
@@ -3796,3 +3796,141 @@ text-align:right;
 
 
 
+/* Section spacing */
+.vision-cards {
+    margin-top: 30px;
+}
+
+/* Card design */
+.vision-box {
+    background: #1ab2f5;
+    padding: 30px 25px;
+    border-radius: 15px;
+    text-align: center;
+    margin-bottom: 30px;
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+/* Hover effect */
+.vision-box:hover {
+    background: #051626;
+}
+
+
+/* Heading */
+.vision-box h3 {
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: white;
+}
+
+/* Text */
+.vision-box p {
+    font-size: 12px;
+    color: white;
+    line-height: 1.7;
+}
+
+/* Equal height fix */
+.vision-cards .col-md-4 {
+    display: flex;
+}
+
+/* Mobile responsive */
+@media (max-width: 767px) {
+    .vision-box {
+        padding: 20px;
+    }
+
+    .vision-box h3 {
+        font-size: 18px;
+    }
+
+    .vision-box p {
+        font-size: 14px;
+    }
+}
+
+.vision-heading {
+  color: #051626; /* Dark Blue Theme */
+  padding: 20px 0px;
+}
+
+
+
+
+
+
+.goal-section {
+  padding: 40px 0;
+  background: #1ab2f5;
+  color: #fff;
+}
+
+.section-title span {
+  color: #2F80ED;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.section-title h2 {
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+
+/* Cards Layout */
+.goal-wrapper {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Card Design */
+.goal-card {
+  background: rgba(255, 255, 255, 0.05);
+  padding: 30px;
+  border-radius: 15px;
+  width: 320px;
+  text-align: center;
+  backdrop-filter: blur(10px);
+  transition: 0.3s;
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.goal-card:hover {
+  transform: translateY(-10px);
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Icon */
+.goal-card .icon {
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+/* Text */
+.goal-card h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.goal-card p {
+  font-size: 15px;
+  color: #d1dbe5;
+  line-height: 1.6;
+}
+
+/* Responsive */
+@media(max-width:768px){
+  .section-title h2 {
+    font-size: 28px;
+  }
+
+  .goal-card {
+    width: 100%;
+  }
+}

@@ -321,7 +321,7 @@
     <!-- we-work -->
     <section class="we-work" style="background-image: url(images/home/work.png);">
         <div class="container">
-            <div class="title-top centred">Steps</div>
+            <div class="title-top centred" style="padding: 30px;">Steps</div>
             <div class="sec-title centred">
                 <h2>How We Work</h2>
             </div>
@@ -374,40 +374,40 @@
     <!-- pricing-section -->
     <section class="pricing-section centred sec-pad">
         <div class="container">
-            <div class="title-top">Our Plans</div>
+            <div class="title-top">Our Packages</div>
             <div class="sec-title">
-                <h2>Pricing Planing</h2>
+                <h2>Choose the best laundry plan that suits your needs</h2>
             </div>
             <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
                     <div class="single-table">
                         <div class="top-content">
-                            <div class="title">WASH AND FOLD</div>
+                            <div class="title">Basic Wash</div>
                             <div class="text">₹79/<span>KG</span></div>
                         </div>
                         <div class="lower-content">
                             <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>150 Keyword</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>800 Man Hour</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>No Time Tracking</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Easy Support</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Wash & Fold Service</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Hygienic Cleaning</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Standard Detergent</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> 48-Hour Delivery</li>
                             </ul>
-                            <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
+                            <div class="button"><a href="#" class="btn-two">    </a></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
                     <div class="single-table">
                         <div class="top-content">
-                            <div class="title">WASH AND IRON</div>
+                            <div class="title">Standard Care</div>
                             <div class="text">₹99/<span>KG</span></div>
                         </div>
                         <div class="lower-content">
                             <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>150 Keyword</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>800 Man Hour</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>No Time Tracking</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Easy Support</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Wash & Iron</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Premium Fabric Care</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Stain Removal</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> 24-48 Hour Delivery</li>
                             </ul>
                             <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
                         </div>
@@ -416,15 +416,15 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
                     <div class="single-table">
                         <div class="top-content">
-                            <div class="title">PREMIUM LAUNDRY</div>
+                            <div class="title">Premium Care</div>
                             <div class="text">₹149<span>KG</span></div>
                         </div>
                         <div class="lower-content">
                             <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>150 Keyword</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>800 Man Hour</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>No Time Tracking</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Easy Support</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Premium Laundry</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Steam Iron Included</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Advanced Stain Treatment</li>
+                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Fast Delivery</li>
                             </ul>
                             <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
                         </div>

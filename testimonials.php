@@ -13,15 +13,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                                I trust Fabklean for all my washing and dry cleaning services. Their quality is consistent, and they use modern technology for better results. The service is quick, reliable, and customer-friendly. One of the best laundry 
-                                services in Delhi.
+                                Fantastic service! Their pickup and delivery system is super smooth. My clothes, shoes, and sofa covers were picked up on time and 
+                                delivered neatly packed.
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/1.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Arjun</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>SUMIT KUMAR</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
@@ -31,15 +31,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                               Fabklean provides top-quality steam ironing service that keeps clothes neat and wrinkle-free. Every outfit looks perfectly pressed and ready to wear. Their attention to detail is excellent. Great service at 
-                               a competitive price.
+                              Super clean results! They removed deep stains from my silk saree and also polished my sneakers. The team knows their job well. 
+                              Prices are reasonable too.
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/2.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Ananya</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>RUCHI Mittal</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
@@ -49,15 +49,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                                If you’re searching for a laundry service near me, Fabklean is the best option. Their service is fast, efficient, and very professional. The staff is polite and responsive. I highly recommend them for hassle-free 
-                                laundry solutions.
+                                I’ve tried multiple laundry services, but Fabklean stands out for its attention to detail and timely delivery. My clothes smelled 
+                                amazing and felt so fresh!
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/3.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Kabir</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>Dev</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
@@ -67,15 +67,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                                Their premium dry cleaning service is outstanding for delicate and expensive garments. Fabklean handles every item with great care and attention. The results are always impressive and long-lasting. A reliable choice for 
-                                professional cleaning.
+                                Very pleased with the service — pickup was on time, and my shoes looked almost new again. Highly recommend 
+                                for reliable shoe laundry.
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/4.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Myra</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>Faiyaz Ahmed</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
@@ -85,15 +85,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                                I regularly use their laundry and ironing service, and I am fully satisfied. The pickup and delivery are always on time, which is very convenient. Their pricing is affordable without compromising quality. Perfect for daily 
-                                laundry needs.
+                                Excellent experience with their dry-cleaning service — polite staff, good packaging, and no shrinkage or damage to 
+                                delicate fabrics. Will use again.
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/5.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Ishaan</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>chirag chaudhary</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
@@ -103,15 +103,15 @@
                         <div class="icon-box"><i class="flaticon-left-quote"></i></div>
                         <div class="text">
                             <p>
-                                Fabklean offers high-quality laundry and dry cleaning service that keeps clothes fresh and perfectly maintained. Every garment looks clean, soft, and ready to wear. Their service quality is always 
-                                consistent and reliable.
+                                Truly professional and bang on time. Gave about 20 odd clothes to these guys and got my clothes the very next day - cleaned 
+                                and packed perfectly.
                             </p>
                         </div>
                         <div class="author">
                             <div class="author-img"><figure><a href="#"><img src="images/testimonial/6.png" alt=""></a></figure></div>
                             <div class="author-info">
-                                <h5>Diya</h5>
-                                <div class="text"><span>Web Developer</span></div>
+                                <h5>Udit Khanna</h5>
+                                <!-- <div class="text"><span>Web Developer</span></div> -->
                             </div>
                         </div>
                     </div>
