@@ -22,7 +22,7 @@
                                     </button>
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix" style="display:flex; gap:10px; margin:0;">
+                                    <ul class="navigation clearfix" style="display:flex; margin:0">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
