@@ -166,7 +166,9 @@
     <section class="about-section">
         <div class="container">
             <div class="row">
-                
+                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
+                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/who.png" alt=""></figure></div>
+                </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">
                         <div class="title-top"></div>
@@ -178,9 +180,6 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6 col-sm-6 col-xs-12 about-column">
-                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><figure><img src="images/about/who.png" alt=""></figure></div>
                 </div>
             </div>
         </div>
@@ -296,7 +295,42 @@
 
 
     <!-- cta section -->
-   
+    <section class="cta-section" style="background-image: url(images/home/cta.png);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-12 col-xs-12 cta-column">
+                    <div class="cta-content">
+                        <div class="title"><h1>We Clean <br /> You Should Relax.</h1></div>
+                        <div class="text">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.ex ea commodo consequat. duis aute irure dolor in reprehenderit.in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+                        </div>
+                        <div class="video-area">
+                            <div class="button"><a href="#"
+   style="
+   display:inline-flex;
+   align-items:center;
+   justify-content:center;
+   padding:13px 40px 13px 40px;
+   background:#051626;
+   color:#ffffff;
+   text-decoration:none;
+   border-radius:50px;
+   font-weight:600;
+   font-size:14px;
+   transition:0.3s;
+   border:2px solid #051626;
+   text-align:center;
+   "
+   onmouseover="this.style.background='transparent'; this.style.color='#051626';"
+   onmouseout="this.style.background='#051626'; this.style.color='#ffffff';"
+>CALCULATE SERVICE</a></div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- cta section end -->
 
 

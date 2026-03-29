@@ -73,14 +73,34 @@
         <div class="container-fluid">
             <ul class="main-slider-carousel owl-carousel owl-theme slide-nav">
                 <li class="slider-wrapper">
-                    <div class="image"><img src="images/slider/3.png" alt=""></div>
+                    <div class="image"><img src="images/slider/3a.png" alt=""></div>
                     <div class="slider-caption">
                         <div class="container">
                             <div class="tp-title">Make Your Clothes Look Fresh & Clean</div>
                                 <h1>Professional<br><span style="color:#051626;">Laundry</span> & <span style="color:#051626;">Dry Cleaning</span> <br>Services</h1>
                                 <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
-                                <a href="#" class="btn-one">Booking Now</a>
+                                <a href="#"
+   style="
+   display:inline-flex;
+   align-items:center;
+   justify-content:center;
+   padding:13px 40px 13px 40px;
+   background:#051626;
+   color:#ffffff;
+   text-decoration:none;
+   border-radius:50px;
+   font-weight:600;
+   font-size:14px;
+   transition:0.3s;
+   border:2px solid #051626;
+   text-align:center;
+   "
+   onmouseover="this.style.background='transparent'; this.style.color='#051626';"
+   onmouseout="this.style.background='#051626'; this.style.color='#ffffff';"
+>
+   BOOKING NOW
+</a>
                                 <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
@@ -96,7 +116,27 @@
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, 
                                 hygiene, and efficiency.</p>
                             <div class="tp-btn">
-                                <a href="#" class="btn-one">Booking Now</a>
+<a href="#"
+   style="
+   display:inline-flex;
+   align-items:center;
+   justify-content:center;
+   padding:13px 40px 13px 40px;
+   background:#051626;
+   color:#ffffff;
+   text-decoration:none;
+   border-radius:50px;
+   font-weight:600;
+   font-size:14px;
+   transition:0.3s;
+   border:2px solid #051626;
+   text-align:center;
+   "
+   onmouseover="this.style.background='transparent'; this.style.color='#051626';"
+   onmouseout="this.style.background='#051626'; this.style.color='#ffffff';"
+>
+   BOOKING NOW
+</a>
                                 <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
@@ -112,7 +152,27 @@
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a 
                                 focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
-                                <a href="#" class="btn-one">Booking Now</a>
+<a href="#"
+   style="
+   display:inline-flex;
+   align-items:center;
+   justify-content:center;
+   padding:13px 40px 13px 40px;
+   background:#051626;
+   color:#ffffff;
+   text-decoration:none;
+   border-radius:50px;
+   font-weight:600;
+   font-size:14px;
+   transition:0.3s;
+   border:2px solid #051626;
+   text-align:center;
+   "
+   onmouseover="this.style.background='transparent'; this.style.color='#051626';"
+   onmouseout="this.style.background='#051626'; this.style.color='#ffffff';"
+>
+   BOOKING NOW
+</a>
                                 <a href="#" class="btn-two">Contact Us</a>
                             </div>
                         </div>
@@ -132,7 +192,7 @@
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <figure><img src="images/about/shop.png" alt=""></figure>
-                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">
@@ -174,7 +234,25 @@
                             </p>
                         </div>
                         <div class="video-area">
-                            <div class="button"><a href="#" class="btn-one">Calculate Service</a></div>
+                            <div class="button"><a href="#"
+   style="
+   display:inline-flex;
+   align-items:center;
+   justify-content:center;
+   padding:13px 40px 13px 40px;
+   background:#051626;
+   color:#ffffff;
+   text-decoration:none;
+   border-radius:50px;
+   font-weight:600;
+   font-size:14px;
+   transition:0.3s;
+   border:2px solid #051626;
+   text-align:center;
+   "
+   onmouseover="this.style.background='transparent'; this.style.color='#051626';"
+   onmouseout="this.style.background='#051626'; this.style.color='#ffffff';"
+>CALCULATE SERVICE</a></div>
                         </div>
                     </div>
                 </div>
@@ -448,66 +526,93 @@
 
     <!-- pricing-section -->
     <section class="pricing-section centred sec-pad">
-        <div class="container">
-            <div class="title-top">Our Packages</div>
-            <div class="sec-title">
-                <h2>Choose the best laundry plan that suits your needs</h2>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
-                    <div class="single-table">
-                        <div class="top-content">
-                            <div class="title">Basic Wash</div>
-                            <div class="text">₹79/<span>KG</span></div>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Wash & Fold Service</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Hygienic Cleaning</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Standard Detergent</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> 48-Hour Delivery</li>
-                            </ul>
-                            <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
-                    <div class="single-table">
-                        <div class="top-content">
-                            <div class="title">Standard Care</div>
-                            <div class="text">₹99/<span>KG</span></div>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Wash & Iron</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Premium Fabric Care</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> Stain Removal</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i> 24-48 Hour Delivery</li>
-                            </ul>
-                            <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 pricing-column">
-                    <div class="single-table">
-                        <div class="top-content">
-                            <div class="title">Premium Care</div>
-                            <div class="text">₹149<span>KG</span></div>
-                        </div>
-                        <div class="lower-content">
-                            <ul class="list">
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Premium Laundry</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Steam Iron Included</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Advanced Stain Treatment</li>
-                                <li><i class="fa fa-check-circle-o" aria-hidden="true"></i>Fast Delivery</li>
-                            </ul>
-                            <div class="button"><a href="#" class="btn-two">Purchase Now</a></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <div class="container">
+        <div class="title-top">Our Packages</div>
+        <div class="sec-title">
+            <h2>Choose the best laundry plan that suits your needs</h2>
         </div>
-    </section>
+
+        <div class="row">
+
+            <!-- Premium Laundry -->
+            <div class="col-md-3 col-sm-6 col-xs-12 pricing-column">
+                <div class="single-table">
+                    <div class="top-content">
+                        <div class="title">Premium Laundry</div>
+                        <div class="text">₹149/<span>KG</span></div>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="list">
+                            <li><i class="fa fa-check-circle-o"></i> Premium Wash</li>
+                            <li><i class="fa fa-check-circle-o"></i> Steam Iron Included</li>
+                            <li><i class="fa fa-check-circle-o"></i> Advanced Stain Removal</li>
+                            <li><i class="fa fa-check-circle-o"></i> Fast Delivery</li>
+                        </ul>
+                        <div class="button"><a href="#" class="btn-two">Book Now</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Woolen Laundry -->
+            <div class="col-md-3 col-sm-6 col-xs-12 pricing-column">
+                <div class="single-table">
+                    <div class="top-content">
+                        <div class="title">Woolen Laundry</div>
+                        <div class="text">₹299/<span>KG</span></div>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="list">
+                            <li><i class="fa fa-check-circle-o"></i> Gentle Fabric Care</li>
+                            <li><i class="fa fa-check-circle-o"></i> Wool Safe Detergents</li>
+                            <li><i class="fa fa-check-circle-o"></i> Anti-Shrink Treatment</li>
+                            <li><i class="fa fa-check-circle-o"></i> Soft Finish</li>
+                        </ul>
+                        <div class="button"><a href="#" class="btn-two">Book Now</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Dry Cleaning -->
+            <div class="col-md-3 col-sm-6 col-xs-12 pricing-column">
+                <div class="single-table">
+                    <div class="top-content">
+                        <div class="title">Dry Cleaning</div>
+                        <div class="text">₹150/<span>Piece</span></div>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="list">
+                            <li><i class="fa fa-check-circle-o"></i> Premium Dry Clean</li>
+                            <li><i class="fa fa-check-circle-o"></i> Fabric Protection</li>
+                            <li><i class="fa fa-check-circle-o"></i> Stain Removal</li>
+                            <li><i class="fa fa-check-circle-o"></i> Fresh Packaging</li>
+                        </ul>
+                        <div class="button"><a href="#" class="btn-two">Book Now</a></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Steam Iron -->
+            <div class="col-md-3 col-sm-6 col-xs-12 pricing-column">
+                <div class="single-table">
+                    <div class="top-content">
+                        <div class="title">Steam Iron</div>
+                        <div class="text">₹50/<span>Pc</span></div>
+                    </div>
+                    <div class="lower-content">
+                        <ul class="list">
+                            <li><i class="fa fa-check-circle-o"></i> Professional Ironing</li>
+                            <li><i class="fa fa-check-circle-o"></i> Wrinkle-Free Finish</li>
+                            <li><i class="fa fa-check-circle-o"></i> Fabric Safe Steam</li>
+                            <li><i class="fa fa-check-circle-o"></i> Same Day Service</li>
+                        </ul>
+                        <div class="button"><a href="#" class="btn-two">Book Now</a></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
     <!-- pricing section end -->
 
 
