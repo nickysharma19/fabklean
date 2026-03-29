@@ -272,7 +272,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
@@ -289,32 +289,36 @@
                         <div class="lower-content">
                             <h3><a href="laundry-service.php">Laundry</a></h3>
                             <div class="text">We provide professional laundry, dry cleaning, and ironing services 
-                                to keep your clothes fresh, clean, and perfectly maintained every day.</div>
+                                to keep your clothes fresh, clean, and perfectly maintained every day.
+                            </div>
                         </div>
                     </div>
+                    
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <a href="#"><img src="images/service/2.png" alt=""></a>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="dry-cleaning-service.php"><i class="fa fa-link"></i></a></li>
-                                        </ul>
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
+                        
+                        <div class="single-item">
+                            <div class="single-item-overlay">
+                                <div class="img-box">
+                                    <a href="#"><img src="images/service/2.png" alt=""></a>
+                                    <div class="overlay">
+                                        <div class="inner-box">
+                                            <ul class="content">
+                                                <li><a href="dry-cleaning-service.php"><i class="fa fa-link"></i></a></li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="lower-content">
-                            <h3><a href="dry-cleaning-service.php">Dry Cleaning</a></h3>
-                            <div class="text">Premium dry cleaning service for clothes to 
-                                remove stains and keep your garments looking fresh and new.</div>
-                        </div>
-                    </div>
+                            <div class="lower-content">
+                                <h3><a href="dry-cleaning-service.php">Dry Cleaning</a></h3>
+                                <div class="text">Premium dry cleaning service for clothes to 
+                                    remove stains and keep your garments looking fresh and new.
+                                </div>
+                                </div>
+                            </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
@@ -331,11 +335,13 @@
                         <div class="lower-content">
                             <h3><a href="leather-cleaning-service.php"> Leather Cleaning</a></h3>
                             <div class="text">Professional dry cleaning for accessories like bags, shoes, ties, 
-                                gloves, and soft toys to keep them fresh, clean, and well maintained.</div>
+                                gloves, and soft toys to keep them fresh, clean, and well maintained.
+                            </div>
                         </div>
                     </div>
+                    
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
@@ -358,7 +364,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+               
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
@@ -381,7 +390,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 service-column">
+                
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
@@ -404,8 +414,59 @@
                         </div>
                     </div>
                 </div>
+                <!-- 7. Accessories Cleaning (NEW) -->
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
+                    <div class="single-item">
+                        <div class="single-item-overlay">
+                            <div class="img-box">
+                                <a href="#"><img src="images/service/6.png" alt=""></a>
+                                <div class="overlay">
+                                    <div class="inner-box">
+                                        <ul class="content">
+                                            <li><a href="steam-ironing-service.php"><i class="fa fa-link"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lower-content">
+                            <h3><a href="steam-ironing-service.php">Accessories Cleaning </a></h3>
+                            <div class="text">
+                                At Fabklean, we take special care of your accessories by offering professional cleaning and steam ironing services that keep them fresh, spotless, 
+                                and perfectly maintained. 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- 8. Saree & Lehenga (NEW) -->
+                <div class="col-md-3 col-sm-6 col-xs-12 service-column">
+                    <div class="single-item">
+                        <div class="single-item-overlay">
+                            <div class="img-box">
+                                <a href="#"><img src="images/service/6.png" alt=""></a>
+                                <div class="overlay">
+                                    <div class="inner-box">
+                                        <ul class="content">
+                                            <li><a href="steam-ironing-service.php"><i class="fa fa-link"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="lower-content">
+                            <h3><a href="steam-ironing-service.php">Saree & Lehenga Cleaning</a></h3>
+                            <div class="text">
+                                At Fabklean, we specialize in the careful cleaning and steam ironing of sarees and lehengas, ensuring every piece looks elegant, fresh, 
+                                and perfectly maintained.
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+        
+        
+        
     </section>
     <!-- service section end -->
 

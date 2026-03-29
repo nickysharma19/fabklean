@@ -188,7 +188,36 @@
 
     
 
-<section class="goal-section">
+    <section class="cta-section" style="background-image: url(images/home/cta1.png);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-12 col-xs-12 cta-column">
+                    <div class="cta-content">
+                        <div class="title">
+    <h4 style="color: white; font-size: 35px; font-family: 'Dancing Script', cursive;">Our Goal</h4>
+    <h1 style="color:#051626;">Delivering Quality Laundry</h1>
+</div>
+
+<div class="text">
+    <p>
+        At Fabklean, our goal is to provide top-quality washing, dry cleaning, and steam ironing services using advanced technology and premium cleaning solutions. We ensure every garment is handled with care to maintain its freshness, fabric quality, and durability.
+    </p>
+
+    <p>
+        <strong>Affordable Pricing with Timely Delivery</strong><br>
+        We are committed to offering reliable services at competitive prices while ensuring on-time doorstep delivery. Our focus is to create a seamless and hassle-free experience that builds long-term trust and satisfaction with every customer.
+    </p>
+</div>
+                        <div class="video-area">
+                            <div class="button"><a href="#" class="btn-one">Calculate Service</a></div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- <section class="goal-section">
     <div class="container ">
         <div class="goal-content text-center">
             <div class="boxing" style="padding: 0px 185px;">
@@ -211,7 +240,7 @@
         </div>
 
     </div>
-</section>
+</section> -->
 
 
 
