@@ -206,7 +206,7 @@
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
                         <a href="https://www.instagram.com/fabklean_/" target="_blank">
-                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cov
+                        <img src="images/gallery/fetch1a.png" alt="" style="width:100%; height:100%; object-fit:cov
                         </a>er;">
                     </figure>
                 </div>
@@ -248,7 +248,7 @@
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
                         <a href="https://www.instagram.com/fabklean_/" target="_blank">
-                        <img src="images/gallery/g3.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <img src="images/gallery/7.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
                         </a>
                     </figure>
                 </div>
