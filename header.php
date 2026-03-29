@@ -11,8 +11,8 @@
                         </div>
                     </div>
                     <div class="col-md-9 col-sm-12 col-xs-12">
-                        <div class="menu-bar">
-                            <nav class="main-menu">
+                        <div class="menu-bar" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:nowrap;">
+                            <nav class="main-menu" style="flex:1; display:flex; justify-content:center;">
                                 <div class="navbar-header">
                                     <button type="button" class="navbar-toggle" data-toggle="collapse"
                                         data-target=".navbar-collapse">
@@ -22,7 +22,7 @@
                                     </button>
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix">
+                                    <ul class="navigation clearfix" style="display:flex; gap:10px; margin:0;">
                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
@@ -73,11 +73,42 @@
                                     </ul>
                                 </div>
                             </nav>
-                            <div class="cart-box">
-                                <a href="tel: 8882388375">
-                                    <i class="fa fa-phone" aria-hidden="true"></i> +91 8882388375
-                                </a>
-                            </div>
+                            <div class="cart-box" style="display:flex; align-items:center; gap:15px; white-space:nowrap;">
+
+    <!-- Phone -->
+    <a href="tel:8882388375"
+       style="color:#fff; text-decoration:none; display:flex; align-items:center; gap:6px;">
+        <i class="fa fa-phone"></i> +91 8882388375
+    </a>
+
+    <!-- Social Icons -->
+    <ul class="footer-social"
+        style="display:flex; gap:10px; margin:0; padding:0; list-style:none;">
+
+        <li>
+            <a href="https://www.facebook.com/fabklean.in"
+               style="color:#fff;">
+                <i class="fa fa-facebook"></i>
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.instagram.com/fabklean_/"
+               style="color:#fff;">
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li>
+
+        <li>
+            <a href="https://wa.me/918882388375" target="_blank"
+               style="color:#fff;">
+                <i class="fa fa-whatsapp"></i>
+            </a>
+        </li>
+
+    </ul>
+
+</div>
                         </div>
                     </div>
                 </div>
@@ -87,3 +118,22 @@
 
     </header>
     <!-- end main header area -->
+     <div style="position:fixed; right:20px; top:50%; transform:translateY(-50%); z-index:9999; display:flex; flex-direction:column; gap:12px;">
+
+    <!-- WhatsApp -->
+    <a href="https://wa.me/918882388375" target="_blank"
+       style="width:55px; height:55px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-size:22px; color:#fff; background:#25D366; text-decoration:none; transition:0.3s;"
+       onmouseover="this.style.background='#fff'; this.style.color='#000'; this.style.transform='scale(1.1)';"
+       onmouseout="this.style.background='#25D366'; this.style.color='#fff'; this.style.transform='scale(1)';">
+        <i class="fa fa-whatsapp"></i>
+    </a>
+
+    <!-- Call -->
+    <a href="tel:8882388375"
+       style="width:55px; height:55px; display:flex; align-items:center; justify-content:center; border-radius:50%; font-size:22px; color:#fff; background:#007bff; text-decoration:none; transition:0.3s;"
+       onmouseover="this.style.background='#fff'; this.style.color='#000'; this.style.transform='scale(1.1)';"
+       onmouseout="this.style.background='#007bff'; this.style.color='#fff'; this.style.transform='scale(1)';">
+        <i class="fa fa-phone"></i>
+    </a>
+
+</div>
