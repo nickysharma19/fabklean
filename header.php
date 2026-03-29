@@ -23,7 +23,7 @@
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                        <li class="current"><a href="index.php">Home</a></li>
+                                        <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
                                         <li class="dropdown"><a href="#">Services</a>
