@@ -129,103 +129,152 @@
             </ul>
 
             <div class="row masonary-layout filter-layout">
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/11.jpg" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/service/4.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item Consulting">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/12.heic" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/gallery/2.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item Finance Growth">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/13.jpg" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/gallery/3.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item Marketing Finance">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/fetch.jfif" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/gallery/4.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item Consulting Marketing">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/fetch1.jfif" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/gallery/5.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
-                    <div class="single-item">
-                        <div class="single-item-overlay">
-                            <div class="img-box">
-                                <figure><img src="images/gallery/fetch1.jfif" alt=""></figure>
-                                <div class="overlay">
-                                    <div class="inner-box">
-                                        <ul class="content">
-                                            <li><a href="images/gallery/6.jpg" class="lightbox-image"><i class="fa fa-plus"></i></a></li>
-                                        </ul>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/11.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item Consulting">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/12.heic" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item Finance Growth">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/13.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item Marketing Finance">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/fetch.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item Consulting Marketing">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g1.heic" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g2.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g3.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g4.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g5.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-6 col-xs-12 filter-item video">
+        <div class="single-item">
+            <div class="single-item-overlay">
+                <div class="img-box" style="height:400px; overflow:hidden;">
+                    <figure>
+                        <img src="images/gallery/g6.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
         </div>
     </section>
 
