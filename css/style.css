@@ -1696,8 +1696,8 @@ h5 a:hover{
 
 .main-footer{
   position: relative;
-  padding-top: 45px;
-  padding-bottom: 31px;
+  padding-top: 69px;
+  padding-bottom: 38px;
   border-bottom: 1px solid #343c3b;
 }
 .footer-logo{
@@ -3962,7 +3962,7 @@ text-align:right;
     margin-bottom: 25px;
     padding: 15px;
     border-radius: 8px;
-    background: #f8fbff;
+    background: #ffffff;
 }
 
 .icon {
@@ -3975,5 +3975,5 @@ text-align:right;
     background-color: #051626;
     color: #fff;
     font-weight: bold;
-    border-radius: 100px;
+    border-radius: 00px;
 }

@@ -191,8 +191,8 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure><img src="images/about/shop1.png" alt=""></figure>
-                        </div>
+                        <figure><img src="images/about/shop.png" alt=""></figure>
+                    </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12 about-column">
                     <div class="about-content">

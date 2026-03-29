@@ -135,7 +135,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/11.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -147,7 +149,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
-                        <img src="images/gallery/12.heic" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
+                        <img src="images/gallery/12.heic" alt="" style="width:100%; height:100%; object-fit:cover;"
+                        </a>>
                     </figure>
                 </div>
             </div>
@@ -159,7 +163,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/13.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -171,7 +177,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
-                        <img src="images/gallery/fetch.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
+                        <img src="images/gallery/fetch.jfif" alt="" style="width:100%; height:100%; object-fit:cove
+                        </a>r;">
                     </figure>
                 </div>
             </div>
@@ -183,7 +191,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
-                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
+                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cov
+                        </a>er;">
                     </figure>
                 </div>
             </div>
@@ -195,7 +205,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
-                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
+                        <img src="images/gallery/fetch1.jfif" alt="" style="width:100%; height:100%; object-fit:cov
+                        </a>er;">
                     </figure>
                 </div>
             </div>
@@ -207,7 +219,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
-                        <img src="images/gallery/g1.heic" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
+                        <img src="images/gallery/g1.heic" alt="" style="width:100%; height:100%; object-fit:cover;"
+                        </a>>
                     </figure>
                 </div>
             </div>
@@ -219,7 +233,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/g2.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -231,7 +247,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/g3.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -243,7 +261,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/g4.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -255,7 +275,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/g5.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -267,7 +289,9 @@
             <div class="single-item-overlay">
                 <div class="img-box" style="height:400px; overflow:hidden;">
                     <figure>
+                        <a href="https://www.instagram.com/fabklean_/" target="_blank">
                         <img src="images/gallery/g6.jpg" alt="" style="width:100%; height:100%; object-fit:cover;">
+                        </a>
                     </figure>
                 </div>
             </div>
@@ -293,7 +317,9 @@
                     <div class="single-item-overlay">
                         <div class="img-box">
                             <figure>
+                                <a href="https://www.instagram.com/fabklean_/" target="_blank">
                                 <video src="images/videos/1.mp4" controls></video>
+                                </a>
                             </figure>
                         </div>
                     </div>
@@ -305,7 +331,9 @@
                     <div class="single-item-overlay">
                         <div class="img-box">
                             <figure>
+                                <a href="https://www.instagram.com/fabklean_/" target="_blank">
                                 <video src="images/videos/2.mp4" controls></video>
+                                </a>
                             </figure>
                         </div>
                     </div>
@@ -317,7 +345,9 @@
                     <div class="single-item-overlay">
                         <div class="img-box">
                             <figure>
+                                <a href="https://www.instagram.com/fabklean_/" target="_blank">
                                 <video src="images/videos/3.mp4" controls></video>
+                                </a>
                             </figure>
                         </div>
                     </div>
