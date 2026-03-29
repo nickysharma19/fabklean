@@ -419,7 +419,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <a href="#"><img src="images/service/6.png" alt=""></a>
+                                <a href="#"><img src="images/service/7a.png" alt=""></a>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
@@ -443,7 +443,7 @@
                     <div class="single-item">
                         <div class="single-item-overlay">
                             <div class="img-box">
-                                <a href="#"><img src="images/service/6.png" alt=""></a>
+                                <a href="#"><img src="images/service/9a.png" alt=""></a>
                                 <div class="overlay">
                                     <div class="inner-box">
                                         <ul class="content">
