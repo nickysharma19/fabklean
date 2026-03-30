@@ -125,7 +125,7 @@
                                 <div class="img-box"><figure><img src="images/service/d3.png" alt=""></figure></div>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><figure><img src="images/service/d4.png" alt=""></figure></div>
+                                <div class="img-box"><figure><img src="images/service/da.png" alt=""></figure></div>
                             </div>
                         </div>
                         <div class="content-style-one">

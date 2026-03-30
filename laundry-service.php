@@ -120,10 +120,10 @@
                     <div class="service-details-content">
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><figure><img src="images/service/d1.png" alt=""></figure></div>
+                                <div class="img-box"><figure><img src="images/service/d1a.png" alt=""></figure></div>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><figure><img src="images/service/d2.png" alt=""></figure></div>
+                                <div class="img-box"><figure><img src="images/service/d2ay.png" alt=""></figure></div>
                             </div>
                         </div>
                         <div class="content-style-one">

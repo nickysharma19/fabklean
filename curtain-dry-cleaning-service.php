@@ -122,10 +122,10 @@
                     <div class="service-details-content">
                         <div class="row">
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><figure><img src="images/service/d9.png" alt=""></figure></div>
+                                <div class="img-box"><figure><img src="images/service/d9a.png" alt=""></figure></div>
                             </div>
                             <div class="col-md-6 col-sm-6 col-xs-12">
-                                <div class="img-box"><figure><img src="images/service/d10.png" alt=""></figure></div>
+                                <div class="img-box"><figure><img src="images/service/d10a.png" alt=""></figure></div>
                             </div>
                         </div>
                         <div class="content-style-one">
