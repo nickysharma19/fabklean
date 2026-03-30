@@ -20,11 +20,15 @@ just change the color code  and rgba value. The whole theme color will be change
 a:hover,.shop-product .content-layer .btn-two:hover,.shop-section .price-text button,.noUi-connect,.checkout-section .customer:before, 
 .checkout-section .coupon:before,.page-pagination li a:hover, .page-pagination li a.active,.blog-single .post-share-option .post-share li a.active, 
 .blog-single .post-share-option .post-share li a:hover,.onoffswitch-label,.onoffswitch-checkbox:checked + .onoffswitch-label,
-.main-menu .navbar-header .navbar-toggle .icon-bar,.pricing-section .single-table.active .top-content, .pricing-section 
+.main-menu .navbar-header .icon-bar,.pricing-section .single-table.active .top-content, .pricing-section 
 .single-table:hover .top-content,.tparrows.preview3:hover:after,.cart-section .coupon-box .apply-btn:hover,.slide-nav .owl-nav .owl-next:hover,
 .slide-nav .owl-nav .owl-prev:hover
 {
-	background: #ffffff;
+	background: #051626;
+}
+
+.navbar-toggle {
+  background: #ffffff;
 }
 
 
