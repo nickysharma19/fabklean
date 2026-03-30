@@ -1,29 +1,30 @@
-    <!-- main header area -->
+
+
+<!-- main header area -->
     <header class="main-header">
 
-        <!-- header lower/fixed-header -->
+        <!-- header lower/fixed-header -->     
         <div class="theme_menu stricky header-lower">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-3 col-sm-12 col-xs-12">
+                    <div class="col-md-2 col-sm-12 col-xs-12">
                         <div class="logo-box">
-                            <a href="/"></a>
+                            <a href="index.php"></a>
                         </div>
                     </div>
-                    <div class="col-md-9 col-sm-12 col-xs-12">
-                        <div class="menu-bar" style="display:flex; align-items:center; justify-content:space-between; flex-wrap:nowrap;">
-                            <nav class="main-menu" style="flex:1; display:flex; justify-content:center;">
+                    <div class="col-md-10 col-sm-12 col-xs-12">
+                        <div class="menu-bar">
+                            <nav class="main-menu">
                                 <div class="navbar-header">
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse"
-                                        data-target=".navbar-collapse">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                         <span class="icon-bar"></span>
                                     </button>
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
-                                    <ul class="navigation clearfix" style="display:flex; margin:0">
-                                        <li><a href="index.php">Home</a></li>
+                                    <ul class="navigation clearfix">
+                                         <li><a href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
                                         <li class="dropdown"><a href="#">Services</a>
@@ -44,71 +45,33 @@
 
                                     <!-- mobile menu -->
                                     <ul class="mobile-menu clearfix">
-                                        <li class="current"><a href="index.php">Home</a></li>
-                                        
+                                         <li><a href="index.php">Home</a></li>
+                                        <li><a href="about.php">About</a></li>
+                                       
                                         <li class="dropdown"><a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="service.php">Our Services</a></li>
-                                                <li><a href="service-details.html">Service Details</a></li>
+                                            <ul class="submenu">
+                                                <li><a href="laundry-service.php">Laundry Service</a></li>
+                                                <li><a href="dry-cleaning-service.php">Dry Cleaning Service</a></li>
+                                                <li><a href="shoe-cleaning-service.php">Shoe Cleaning Service</a></li>
+                                                <li><a href="carpet-dry-cleaning-service.php">Carpet Dry Cleaning Service</a></li>
+                                                <li><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning Service</a></li>
+                                                <li><a href="leather-cleaning-service.php">Leather Cleaning Service</a></li>
+                                                <li><a href="steam-ironing-service.php">Steam Ironing Service</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown"><a href="#">Pages</a>
-                                            <ul>
-                                                <li><a href="gallery.php">Our Gallery</a></li>
-                                                <li><a href="team.html">Our Experts</a></li>
-                                                <li><a href="team-detaisl.html">Expert Details</a></li>
-                                                <li><a href="shop.html">Shop Page</a></li>
-                                                <li><a href="single-shop.html">Single Product</a></li>
-                                                <li><a href="cart.html">Cart Page</a></li>
-                                                <li><a href="checkout.html">Checkout Page</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Gallery</a>
-                                            <ul>
-                                                <li><a href="blog-classic.php">Blog Post</a></li>
-                                                <li><a href="blog-details.html">Blog Details</a></li>
-                                            </ul>
-                                        </li>
+                                        <li><a href="pricing.php">Pricing</a></li>
+                                        <li><a href="gallery.php">Gallery</a></li>
                                         <li><a href="contact.php">Contact</a></li>
-                                    </ul>
+</ul>
                                 </div>
                             </nav>
-                            <div class="cart-box" style="display:flex; align-items:center; gap:15px; white-space:nowrap;">
-
-    <!-- Phone -->
-    <a href="tel:8882388375"
-       style="color:#fff; text-decoration:none; display:flex; align-items:center; gap:6px;">
-        <i class="fa fa-phone"></i> +91 8882388375
-    </a>
-
-    <!-- Social Icons -->
-    <ul class="footer-social"
-        style="display:flex; gap:10px; margin:0; padding:0; list-style:none;">
-
-        <li>
-            <a href="https://www.facebook.com/fabklean.in"
-               style="color:#fff;">
-                <i class="fa fa-facebook"></i>
-            </a>
-        </li>
-
-        <li>
-            <a href="https://www.instagram.com/fabklean_/"
-               style="color:#fff;">
-                <i class="fa fa-instagram"></i>
-            </a>
-        </li>
-
-        <li>
-            <a href="https://wa.me/918882388375" target="_blank"
-               style="color:#fff;">
-                <i class="fa fa-whatsapp"></i>
-            </a>
-        </li>
-
-    </ul>
-
-</div>
+                            <div class="cart-box">
+<a href="tel:8882388375" style="color:#fff;">
+    <i class="fa fa-phone"></i> +91 8882388375
+</a>                                <a href="#" style="margin-left:10px;">
+    <i class="fa fa-instagram" aria-hidden="true"></i>
+</a>
+                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>                            </div>
                         </div>
                     </div>
                 </div>
@@ -118,6 +81,8 @@
 
     </header>
     <!-- end main header area -->
+
+            <!-- end main header area -->
      <div style="position:fixed; right:20px; top:50%; transform:translateY(-50%); z-index:9999; display:flex; flex-direction:column; gap:12px;">
 
     <!-- WhatsApp -->
