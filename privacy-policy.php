@@ -246,61 +246,59 @@
                 Mobile Promotional Offers. When you provide us with your mobile number for marketing purposes, we may send you certain marketing alerts via text message. Standard data and message rates will apply. If you no longer wish to receive mobile alerts from us, you can follow the instructions provided in those messages or otherwise reply “STOP” 
                 to any Fabklean alert.
             </li>
-            <li></li>
-            <li></li>
         </ul>
         
-        <h2 class="policy-heading">
+        <p class="section-content">
             Your instructions to limit the use of your information for these purposes will be processed as soon as reasonably practicable. Additionally, we are not responsible for informing third parties (including without limitation our third party service providers or partners) with whom we have already shared your personal information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities
-Access to Your Information
-        </h2>
-        <h2 class="policy-heading">
+            Access to Your Information
+        </p>
+        <p class="section-content">
             You may log in to your account page on the Site or App to update your profile, payment information, and preferences, or otherwise email us at support@Fabklean.in . If you choose to deactivate your account, we may still retain certain information for analytical purposes and recordkeeping integrity, as well as to prevent fraud, resolve disputes, enforce our Terms of Use or other policies, take actions we deem necessary due to technical and legal requirements, and as dictated by constraints related to the security, integrity and 
             operation of our Services.
-        </h2>
-        <h2 class="policy-heading">
+        </p>
+        <h5 class="policy-heading">
            5. THIRD-PARTY CONTENT, LINKS, AND PLUG-INS
-        </h2>
-        <p>
+        </h5>
+        <p class="section-content">
             The Services may have links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the practices 
             of such sites.
         </p>
-        <p>
+        <p class="section-content">
             The Services may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you. In some cases, we may know that you clicked on a social plugin, such as a Twitter Follow button, or receive other information from the social media sites. Similarly, if you have previously provided personal information to a third-party operating a plug-in on the Services, then such third-party may recognize you on the Services. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for 
             the practices of such sites.
         </p>
-        <h2 class="policy-heading">
+        <h5 class="policy-heading">
            6. PUBLIC FORUMS
-        </h2>
-            <p>
+        </h5>
+            <p class="section-content">
                 Any information you may disclose on our Services, in blogs, on message boards, in chat rooms, or on other public areas on the Services or other third-party websites that the Services may link to, becomes public information. Please exercise caution when disclosing personal information 
                 in these public areas.
             </p>
-         <h2 class="policy-heading">
+         <h5 class="policy-heading">
            7. CHILDREN’S PRIVACY
-        </h2>
-        <p>
+        </h5>
+        <p class="section-content">
             Protecting children’s privacy is important to us. We do not direct the Services to, nor do we knowingly collect any personal information from, children under the age of 18. If Fabklean learns that a child under the age of eighteen has provided personally identifiable information to the Services, it will use reasonable efforts to remove 
             such information from its files.
         </p>
-         <h2 class="policy-heading">
+         <h5 class="policy-heading">
            8. DATA SECURITY
-        </h2>
-        <p>
+        </h5>
+        <p class="section-content">
             We have taken certain physical, administrative, and technical steps to safeguard the from and about our customers and visitors and users of our Services. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures. When you enter sensitive information (such as debit/credit card information) on our forms, we encrypt the transmission of that information using 
             secure socket layer technology (SSL).
         </p>
-         <h2 class="policy-heading">
+         <h5 class="policy-heading">
            9. REVISIONS TO THIS PRIVACY POLICY
-        </h2>
-        <p>
+        </h5>
+        <p class="section-content">
             We reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Services. Your continued use of the Services following the posting of changes to these terms means you accept these changes. If we change the Privacy Policy in a material way, we will 
             provide appropriate notice to you.
         </p>
-         <h2 class="policy-heading">
+         <h5 class="policy-heading">
            10. HOW TO CONTACT US
-        </h2>
-        <p>
+        </h5>
+        <p class="section-content">
             If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at support@Fabklean.in or call us 
             at 888 238 8375
         </p>

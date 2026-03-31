@@ -80,7 +80,7 @@
                                 <h1>Professional<br><span style="color:#051626;">Laundry</span> & <span style="color:#051626;">Dry Cleaning</span> <br>Services</h1>
                                 <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
-                                <a href="#"
+                                <a href="tel:+918882388375" 
    style="
    display:inline-flex;
    align-items:center;
@@ -101,7 +101,7 @@
 >
    BOOKING NOW
 </a>
-                                <a href="#" class="btn-two">Contact Us</a>
+                                <a href="contact.php" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a focus on quality, 
                                 hygiene, and efficiency.</p>
                             <div class="tp-btn">
-<a href="#"
+<a href="tel:+918882388375" 
    style="
    display:inline-flex;
    align-items:center;
@@ -137,7 +137,7 @@
 >
    BOOKING NOW
 </a>
-                                <a href="#" class="btn-two">Contact Us</a>
+                                <a href="contact.php" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -152,7 +152,7 @@
                             <p class="Fabklean">Fabklean delivers professional laundry and dry cleaning services with a 
                                 focus on quality, hygiene, and efficiency.</p>
                             <div class="tp-btn">
-<a href="#"
+<a href="tel:+918882388375" 
    style="
    display:inline-flex;
    align-items:center;
@@ -173,7 +173,7 @@
 >
    BOOKING NOW
 </a>
-                                <a href="#" class="btn-two">Contact Us</a>
+                                <a href="contact.php" class="btn-two">Contact Us</a>
                             </div>
                         </div>
                     </div>
@@ -281,6 +281,7 @@
                                     <div class="inner-box">
                                         <ul class="content">
                                             <li><a href="laundry-service.php"><i class="fa fa-link"></i></a></li>
+
                                         </ul>
                                     </div>
                                 </div>

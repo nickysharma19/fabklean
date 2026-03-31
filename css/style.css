@@ -4106,11 +4106,11 @@ text-align:right;
 
 .policy-heading {
     font-family: Arial, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     color: #666666;
     line-height: 1.5;
-    margin: 15px 0 15px;
+    margin: 10px 0px 10px 0px;
     letter-spacing: 0.5px;
     text-transform: uppercase;
 }
@@ -4131,8 +4131,18 @@ text-align:right;
     font-family: Arial, sans-serif;
     font-size: 16px;
     font-weight: 300;
-    color: #666666;
-    line-height: 1.8;
+    color: #666666b3;
+    line-height: 1.2;
     list-style: inside;
     margin-bottom: 10px;
 }
+.section-content {
+    font-size: 16px;
+    line-height: 1.2;
+    color: #555555c7;
+    text-align: justify;
+    /* margin-bottom: 20px; */
+    font-family: Arial, sans-serif;
+}
+
+
