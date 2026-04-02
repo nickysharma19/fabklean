@@ -155,78 +155,181 @@ text-align:right;
 
 <h2>PRICING</h2>
 
-<div class="pricing">
+<div class="row">
+    <!-- Card 1 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">Dry Cleaning - Household</div>
+            </div>
+            
+            <div class="lower-content">
+                <ul class="list">
+                    <li>Curtain (With Liner) <span>₹200-300</span></li>
+                    <li>Curtain (Without Liner) <span>₹150-200</span></li>
+                    <li>Mattress (Single) <span>₹600</span></li>
+                    <li>Mattress (Double) <span>₹1000</span></li>
+                    <li>Table Cover <span>₹200-300</span></li>
+                    
+                    <li>Mat <span>₹100-400</span></li>
+                    <li>Dari <span>₹25-35/SQ FT</span></li>
+                    <li>Carpet <span>₹25-35/SQ FT</span></li>
+                    <li>Sofa <span>₹250-450/SEAT</span></li>
+                    <li>Towel <span>₹100-250</span></li>
+                    
+                    <li>Pillow/Cushion (Cover) <span>₹60-100</span></li>
+                    <li>Pillow/Cushion <span>₹250-350</span></li>
+                    <li>Bedsheet-Single <span>₹150-250</span></li>
+                    <li>Bedsheet-Double <span>₹200-300</span></li>
+                </ul>
+            </div>
+        </div>
+        
+    </div>
 
-<!-- Table 1 -->
-<div class="table-box">
-<h3>Laundry</h3>
-<table>
-<tr><td>Wash & Fold</td><td>₹79/KG</td></tr>
-<tr><td>Wash & Iron</td><td>₹99/KG</td></tr>
-<tr><td>Premium Laundry</td><td>₹149/KG</td></tr>
-</table>
+    <!-- Card 2 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">Dry Cleaning</div>
+            </div>
+            <div class="lower-content">
+                <ul class="list">
+                    <li>Shirt <span>₹150-200</span></li>
+                    <li>KURTA <span>₹150-250</span></li>
+                    <li>SUIT 2PC <span>₹₹400-500</span></li>
+                    <li>JEANS<span>₹150-200</span></li>
+                    <li>T SHIRT<span>₹150-200</span></li>
+                    <li>DHOTI<span>₹200-250</span></li>
+                    <li> SUIT 3PC<span>₹550-650</span></li>
+                    <li>PAJAMA <span>₹150-200</span></li>
+                    <li>TROUSER <span>₹150-200</span></li>
+                    <li> SHERWANI<span>₹ 650-850</span></li>
+                    <li> SUIT 4PC<span>₹650-750</span></li>
+                    <li> TRACKSUIT<span>₹250-350</span></li>
+                    <li>DRESS SHORT <span>₹150-250</span></li>
+                    <li> ANARKALI KURTA<span>₹250-450</span></li>
+                    <li> LEHENGA/GOWN<span>₹450-1250</span></li>
+                    <li> DRESS LONG<span>₹200-350</span></li>
+                    <li> ANARKALI 2 PC<span>₹₹ 400-600</span></li>
+                    <li>SAREE <span>₹250-450</span></li>
+                    <li>SALWAR <span>₹100-150</span></li>
+                    <li>SKIRT <span>₹150-250</span></li>
+                    <li>BLOUSE <span>₹100-250</span></li>
+                    <li> DUPATTA/STOLE<span>₹100-250</span></li>
+                    <li> TOP<span>₹120-250</span></li>
+                    <li> COAT/BLAZER<span>₹250-450</span></li>
+                    <li>JACKET <span>₹250-650</span></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Card 3 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">Dry Cleaning - Woollen</div>
+            </div>
+            
+            <div class="lower-content">
+                <ul class="list">
+                    <li>Quilt Single <span>₹300-350</span></li>
+                    <li>Quilt Double <span>₹400-450</span></li>
+                    <li>Quilt CVR Single <span>₹200-300</span></li>
+                    <li>Quilt CVR Double <span>₹250-350</span></li>
+                    
+                    <li>Muffler <span>₹100-250</span></li>
+                    <li>Sweater <span>₹150-350</span></li>
+                    <li>Over Coat <span>₹350-550</span></li>
+                    <li>Bathrobe <span>₹200-250</span></li>
+                    
+                    <li>Razai Single <span>₹300</span></li>
+                    <li>Razai Double <span>₹500</span></li>
+                    <li>Hood/Cap <span>₹100-300</span></li>
+                    <li>Shrug <span>₹200-400</span></li>
+                    
+                    <li>Blanket Single <span>₹250-300</span></li>
+                    <li>Blanket Double <span>₹350-450</span></li>
+                    <li>Shawl <span>₹150-300</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!-- Table 2 -->
-<div class="table-box">
-<h3>Dry Cleaning</h3>
-<table>
-<tr><td>Shirt</td><td>₹150</td></tr>
-<tr><td>T-Shirt</td><td>₹150</td></tr>
-<tr><td>Trouser</td><td>₹150</td></tr>
-<tr><td>Suit</td><td>₹400</td></tr>
-</table>
+<div class="row">
+    <!-- Card 4 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">Dry Cleaning - Accessories</div>
+            </div>
+            
+            <div class="lower-content">
+                <ul class="list">
+                    <li>Purse / Bag <span>₹250-650</span></li>
+                    <li>Soft Toy <span>₹250-850</span></li>
+                    <li>Shoes <span>₹250-650</span></li>
+                    <li>Back Pack <span>₹250-650</span></li>
+                    <li>Gloves / PC <span>₹100-200</span></li>
+                    <li>Slippers <span>₹250</span></li>
+                    <li>Tie <span>₹100-150</span></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Card 5 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">Laundry</div>
+            </div>
+            <div class="lower-content">
+                <ul class="list">
+                    <li>Wash & Fold <span>₹79/KG</span></li>
+                    <li>Wash & Iron <span>₹99/KG</span></li>
+                    <li>Premium Laundry <span>₹149/KG</span></li>
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+    
+
+    <!-- Card 6 -->
+    <div class="col-lg-4 col-md-6 col-sm-12 pricing-column">
+        <div class="single-table">
+            <div class="top-content">
+                <div class="title">SUPER SAVER MONTHLY PACKAGES</div>
+            </div>
+            
+            <div class="lower-content">
+                <ul class="list">
+                    <li>
+                        Wash + Dry + Fold
+                        <span>₹1399</span>
+                    </li>
+                    <li>
+                        <small>20 KGS. × 79 = ₹1580 /- You Save ₹181</small>
+                    </li>
+                    
+                    <li>
+                        Wash + Dry + Fold + Steam Iron
+                        <span>₹1799</span>
+                    </li>
+                    <li>
+                        <small>20 KGS. × 99 = ₹1980 /- You Save ₹181</small>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </div>
 
-<!-- Table 3 -->
-<div class="table-box">
-<h3>Accessories</h3>
-<table>
-<tr><td>Bags</td><td>₹250-650</td></tr>
-<tr><td>Shoes</td><td>₹250-650</td></tr>
-<tr><td>Gloves</td><td>₹100-200</td></tr>
-<tr><td>Tie</td><td>₹100-150</td></tr>
-</table>
-</div>
 
-<!-- Table 4 -->
-<div class="table-box">
-<h3>Household</h3>
-<table>
-<tr><td>Curtain</td><td>₹200-300</td></tr>
-<tr><td>Mattress</td><td>₹600</td></tr>
-<tr><td>Sofa Cover</td><td>₹250-450</td></tr>
-<tr><td>Towel</td><td>₹100-250</td></tr>
-</table>
-</div>
-
-<!-- Table 5 -->
-<div class="table-box">
-<h3>Woollen</h3>
-<table>
-<tr><td>Quilt Single</td><td>₹300</td></tr>
-<tr><td>Quilt Double</td><td>₹400</td></tr>
-<tr><td>Sweater</td><td>₹150</td></tr>
-<tr><td>Blanket</td><td>₹250</td></tr>
-</table>
-</div>
-
-<!-- Table 6 -->
-<div class="table-box">
-<h3>Monthly Packages</h3>
-<table>
-<tr><td>Wash + Dry + Fold</td><td>₹1399</td></tr>
-<tr><td>Wash + Dry + Iron</td><td>₹1799</td></tr>
-<tr><td>Pick & Drop</td><td>Free</td></tr>
-<tr><td>20 KG Plan</td><td>Included</td></tr>
-</table>
-</div>
-
-</div>
-
-
-
-    <!-- service details -->
 
      <!-- testimonials section -->
    <?php include 'testimonials.php' ?> 

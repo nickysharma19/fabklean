@@ -483,7 +483,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
-                            <img src="images/icons/1.PNG" alt="icon" style="width:100px;">
+                            <img src="images/icons/1.png" alt="icon" style="width:100px;">
                             <div class="number">1</div>
                         </div>
                         <div class="text">Bar Code Tagging</div>
@@ -492,7 +492,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
-                            <img src="images/icons/2.PNG" alt="icon" style="width:100px;">
+                            <img src="images/icons/2.png" alt="icon" style="width:100px;">
                             <div class="number">2</div>
                         </div>
                         <div class="text">Real Time Updates</div>
@@ -501,7 +501,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
-                            <img src="images/icons/3.PNG" alt="icon" style="width:100px;">
+                            <img src="images/icons/3.png" alt="icon" style="width:100px;">
                             <div class="number">3</div>
                         </div>
                         <div class="text">Quick Pick Up</div>
@@ -510,7 +510,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
-                            <img src="images/icons/4.PNG" alt="icon" style="width:100px;">
+                            <img src="images/icons/4.png" alt="icon" style="width:100px;">
                             <div class="number">4</div>
                         </div>
                         <div class="text">Promised TAT</div>
