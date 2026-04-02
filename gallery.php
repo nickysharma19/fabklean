@@ -107,7 +107,7 @@
             <div class="content-box">
                 <div class="title"><h1>Our Gallery</h1></div>
                 <ul class="bread-crumb">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="./">Home</a></li>
                     <li>Our Gallery</li>
                 </ul>
             </div>

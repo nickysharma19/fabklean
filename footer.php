@@ -34,7 +34,7 @@
                     <div class="col-md-4 col-sm-6 col-xs-12 footer-column">
                         <div class="logo-wideget footer-wideget">
                             <div class="footer-logo">
-                                <a href="index.html"></a>
+                                <a href="./"></a>
                             </div>
                             <div class="text">
                                 <p>We provide professional washing, dry cleaning, and ironing services to keep your
@@ -58,7 +58,7 @@
                                 <h3>Quick Link</h3>
                             </div>
                             <ul class="list">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="./">Home</a></li>
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="index.php#services">Services</a></li>
                                 <li><a href="contact.php">Contact Us</a></li>

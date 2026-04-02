@@ -9,7 +9,7 @@
                 <div class="row">
                     <div class="col-md-2 col-sm-12 col-xs-12">
                         <div class="logo-box">
-                            <a href="index.php"></a>
+                            <a href="./"></a>
                         </div>
                     </div>
                     <div class="col-md-10 col-sm-12 col-xs-12">
@@ -24,7 +24,7 @@
                                 </div>
                                 <div class="navbar-collapse collapse clearfix">
                                     <ul class="navigation clearfix">
-                                         <li><a href="index.php">Home</a></li>
+                                         <li><a href="./">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
                                         <li class="dropdown"><a href="#">Services</a>
@@ -45,7 +45,7 @@
 
                                     <!-- mobile menu -->
                                     <ul class="mobile-menu clearfix">
-                                         <li><a href="index.php">Home</a></li>
+                                         <li><a href="./">Home</a></li>
                                         <li><a href="about.php">About</a></li>
                                        
                                         <li class="dropdown"><a href="#">Services</a>

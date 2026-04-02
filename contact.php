@@ -161,7 +161,7 @@
         <div class="content-box">
           <div class="title"><h1>Contact Us</h1></div>
           <ul class="bread-crumb">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="./">Home</a></li>
             <li>Contact Us</li>
           </ul>
         </div>
