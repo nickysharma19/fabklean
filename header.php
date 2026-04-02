@@ -29,13 +29,13 @@
                                        
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="laundry-service.php">Laundry Service</a></li>
-                                                <li><a href="dry-cleaning-service.php">Dry Cleaning Service</a></li>
-                                                <li><a href="shoe-cleaning-service.php">Shoe Cleaning Service</a></li>
-                                                <li><a href="carpet-dry-cleaning-service.php">Carpet Dry Cleaning Service</a></li>
-                                                <li><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning Service</a></li>
-                                                <li><a href="leather-cleaning-service.php">Leather Cleaning Service</a></li>
-                                                <li><a href="steam-ironing-service.php">Steam Ironing Service</a></li>
+                                                <li><a href="laundry-service.php">Laundry</a></li>
+                                                <li><a href="dry-cleaning-service.php">Dry Cleaning</a></li>
+                                                <li><a href="shoe-cleaning-service.php">Shoe Cleaning</a></li>
+                                                <li><a href="carpet-dry-cleaning-service.php">Carpet Dry Cleaning</a></li>
+                                                <li><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning</a></li>
+                                                <li><a href="leather-cleaning-service.php">Leather Cleaning</a></li>
+                                                <li><a href="steam-ironing-service.php">Steam Ironing</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="pricing.php">Pricing</a></li>
@@ -50,13 +50,13 @@
                                        
                                         <li class="dropdown"><a href="#">Services</a>
                                             <ul class="submenu">
-                                                <li><a href="laundry-service.php">Laundry Service</a></li>
-                                                <li><a href="dry-cleaning-service.php">Dry Cleaning Service</a></li>
-                                                <li><a href="shoe-cleaning-service.php">Shoe Cleaning Service</a></li>
-                                                <li><a href="carpet-dry-cleaning-service.php">Carpet Dry Cleaning Service</a></li>
-                                                <li><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning Service</a></li>
-                                                <li><a href="leather-cleaning-service.php">Leather Cleaning Service</a></li>
-                                                <li><a href="steam-ironing-service.php">Steam Ironing Service</a></li>
+                                                <li><a href="laundry-service.php">Laundry</a></li>
+                                                <li><a href="dry-cleaning-service.php">Dry Cleaning</a></li>
+                                                <li><a href="shoe-cleaning-service.php">Shoe Cleaning</a></li>
+                                                <li><a href="carpet-dry-cleaning-service.php">Carpet Dry Cleaning</a></li>
+                                                <li><a href="curtain-dry-cleaning-service.php">Curtain Dry Cleaning</a></li>
+                                                <li><a href="leather-cleaning-service.php">Leather Cleaning</a></li>
+                                                <li><a href="steam-ironing-service.php">Steam Ironing</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="pricing.php">Pricing</a></li>
