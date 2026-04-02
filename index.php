@@ -281,7 +281,6 @@
                                     <div class="inner-box">
                                         <ul class="content">
                                             <li><a href="laundry-service.php"><i class="fa fa-link"></i></a></li>
-
                                         </ul>
                                     </div>
                                 </div>

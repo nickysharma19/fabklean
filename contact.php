@@ -197,7 +197,10 @@
                       <i class="fa fa-phone"></i>
                     </div>
                     <h3>Phone</h3>
-                    <p>+91-8882388375 <br />0124-4007675</p>
+                    <p>
+  <a href="tel:+918882388375">+91-8882388375</a><br>
+  <a href="tel:01244007675">0124-4007675</a>
+</p>
                     <!-- <p>0124-4007675</p> -->
                   </div>
                 </div>
@@ -209,7 +212,9 @@
                       <i class="fa fa-envelope"></i>
                     </div>
                     <h3>Email</h3>
-                    <p>lghospitality2019@gmail.com</p>
+                    <p>
+  <a href="mailto:lghospitality2019@gmail.com">lghospitality2019@gmail.com</a>
+</p>
                   </div>
                 </div>
 
@@ -221,8 +226,8 @@
                     </div>
                     <h3>Location</h3>
                     <p>
-                      Sector 40 HUDA Market,<br />
-                      Gurugram, Haryana 122001, India
+                      Shop No.43, Main HUDA Market,<br> Sector 40,
+                                        Gurgaon, Haryana 122003
                     </p>
                   </div>
                 </div>

@@ -94,11 +94,19 @@
                                     <p>Excepteur sint occaecat cupidat non proident sunt.</p>
                                 </div> -->
                                 <ul class="contact-info">
-                                    <li><i class="icon fa fa-map-marker"></i>Shop No.43,Main HUDA Market,Sector 40,
+                                    <li><i class="icon fa fa-map-marker"></i>Shop No.43, Main HUDA Market, <br>Sector 40,
                                         Gurgaon, Haryana 122003
                                     </li>
-                                    <li><i class="icon fa fa-phone"></i>+91-8882388375 <br>0124-4007675</li>
-                                    <li><i class="icon fa fa-envelope"></i>lghospitality2019@gmail.com</li>
+                                    <li>
+  <i class="icon fa fa-phone"></i>
+  <a href="tel:+918882388375">+91-8882388375</a><br>
+  <a href="tel:01244007675">0124-4007675</a>
+</li>
+
+<li>
+  <i class="icon fa fa-envelope"></i>
+  <a href="mailto:lghospitality2019@gmail.com">lghospitality2019@gmail.com</a>
+</li>
                                 </ul>
                             </div>
                         </div>
