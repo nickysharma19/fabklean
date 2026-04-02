@@ -206,7 +206,7 @@
                                 services at competitive price and on time. 
                             </p>
                         </div>
-                        <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
+                        <div class="button"><a href="contact.php" class="btn-one">Contact Now</a></div>
                     </div>
                 </div>
             </div>

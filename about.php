@@ -121,7 +121,7 @@
             <div class="content-box">
                 <div class="title"><h1>About Us</h1></div>
                 <ul class="bread-crumb">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="./">Home</a></li>
                     <li>About Us</li>
                 </ul>
             </div>
@@ -157,7 +157,7 @@
                                 competitive price and on time. 
                             </p>
                         </div>
-                        <div class="button"><a href="contact.html" class="btn-one">Contact Now</a></div>
+                        <div class="button"><a href="contact.php" class="btn-one">Contact Now</a></div>
                     </div>
                 </div>
             </div>

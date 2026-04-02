@@ -102,7 +102,7 @@
             <div class="content-box">
                 <div class="title"><h1>Dry Cleaning Service</h1></div>
                 <ul class="bread-crumb">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="./">Home</a></li>
                     <li>Dry Cleaning Service</li>
                 </ul>
             </div>
