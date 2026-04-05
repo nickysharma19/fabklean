@@ -185,12 +185,9 @@
 			loop:true,
 			margin:0,
 			nav:true,
-			animateOut: 'slideOutDown',
-    		animateIn: 'fadeIn',
     		active: true,
-			smartSpeed: 1000,
+			smartSpeed: 2000,
 			autoplay: 5000,
-			navText: [ '<span class="fa fa-arrow-left"></span>', '<span class="fa fa-arrow-right"></span>' ],
 			responsive:{
 				0:{
 					items:1
